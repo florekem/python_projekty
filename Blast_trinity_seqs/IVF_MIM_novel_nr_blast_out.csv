@@ -1,0 +1,398 @@
+query @ al_title @ al_accession @ evalue
+TRINITY_DN33664_c1_g1_i1 @ gi|929107117|ref|XM_014209284.1| PREDICTED: Salmo salar zinc finger protein 205-like (LOC106610114), mRNA @ XM_014209284 @ 1.65189e-51
+TRINITY_DN33664_c1_g1_i1 @ gi|929107117|ref|XM_014209284.1| PREDICTED: Salmo salar zinc finger protein 205-like (LOC106610114), mRNA @ XM_014209284 @ 1.88813e-06
+TRINITY_DN33664_c1_g1_i1 @ gi|1348597785|ref|XM_023984230.2| PREDICTED: Salvelinus alpinus uncharacterized LOC111961736 (LOC111961736), mRNA @ XM_023984230 @ 6.5786e-44
+TRINITY_DN33664_c1_g1_i1 @ gi|1348597785|ref|XM_023984230.2| PREDICTED: Salvelinus alpinus uncharacterized LOC111961736 (LOC111961736), mRNA @ XM_023984230 @ 2.30022e-05
+TRINITY_DN30589_c3_g3_i1 @ gi|1158931405|ref|XM_020458236.1| PREDICTED: Oncorhynchus kisutch uncharacterized LOC109868580 (LOC109868580), mRNA @ XM_020458236 @ 0.0
+TRINITY_DN30589_c3_g3_i1 @ gi|1158931405|ref|XM_020458236.1| PREDICTED: Oncorhynchus kisutch uncharacterized LOC109868580 (LOC109868580), mRNA @ XM_020458236 @ 9.15248e-17
+TRINITY_DN30589_c3_g3_i1 @ gi|1158931405|ref|XM_020458236.1| PREDICTED: Oncorhynchus kisutch uncharacterized LOC109868580 (LOC109868580), mRNA @ XM_020458236 @ 4.7411e-14
+TRINITY_DN30589_c3_g3_i1 @ gi|1158931405|ref|XM_020458236.1| PREDICTED: Oncorhynchus kisutch uncharacterized LOC109868580 (LOC109868580), mRNA @ XM_020458236 @ 6.17234
+TRINITY_DN26495_c7_g3_i1 @ gi|1696071817|ref|XM_029722296.1| PREDICTED: Salmo trutta dematin actin binding protein (dmtn), transcript variant X4, mRNA @ XM_029722296 @ 0.0
+TRINITY_DN26495_c7_g3_i1 @ gi|1696071815|ref|XM_029722295.1| PREDICTED: Salmo trutta dematin actin binding protein (dmtn), transcript variant X3, mRNA @ XM_029722295 @ 0.0
+TRINITY_DN26495_c7_g3_i1 @ gi|1696071813|ref|XM_029722294.1| PREDICTED: Salmo trutta dematin actin binding protein (dmtn), transcript variant X2, mRNA @ XM_029722294 @ 0.0
+TRINITY_DN26495_c7_g3_i1 @ gi|1696071811|ref|XM_029722293.1| PREDICTED: Salmo trutta dematin actin binding protein (dmtn), transcript variant X1, mRNA @ XM_029722293 @ 0.0
+TRINITY_DN26495_c7_g3_i1 @ gi|929305594|ref|XM_014174849.1| PREDICTED: Salmo salar dematin actin binding protein (dmtn), transcript variant X6, mRNA @ XM_014174849 @ 0.0
+TRINITY_DN26495_c7_g3_i1 @ gi|929305592|ref|XM_014174848.1| PREDICTED: Salmo salar dematin actin binding protein (dmtn), transcript variant X5, mRNA @ XM_014174848 @ 0.0
+TRINITY_DN26495_c7_g3_i1 @ gi|929305590|ref|XM_014174847.1| PREDICTED: Salmo salar dematin actin binding protein (dmtn), transcript variant X4, mRNA @ XM_014174847 @ 0.0
+TRINITY_DN26495_c7_g3_i1 @ gi|929305588|ref|XM_014174846.1| PREDICTED: Salmo salar dematin actin binding protein (dmtn), transcript variant X3, mRNA @ XM_014174846 @ 0.0
+TRINITY_DN26495_c7_g3_i1 @ gi|929305586|ref|XM_014174845.1| PREDICTED: Salmo salar dematin actin binding protein (dmtn), transcript variant X2, mRNA @ XM_014174845 @ 0.0
+TRINITY_DN26495_c7_g3_i1 @ gi|929305584|ref|XM_014174844.1| PREDICTED: Salmo salar dematin actin binding protein (dmtn), transcript variant X1, mRNA @ XM_014174844 @ 0.0
+TRINITY_DN26495_c7_g3_i1 @ gi|1367437779|ref|XM_024418368.1| PREDICTED: Oncorhynchus tshawytscha dematin actin binding protein (dmtn), transcript variant X7, mRNA @ XM_024418368 @ 0.0
+TRINITY_DN26495_c7_g3_i1 @ gi|1367437777|ref|XM_024418367.1| PREDICTED: Oncorhynchus tshawytscha dematin actin binding protein (dmtn), transcript variant X6, mRNA @ XM_024418367 @ 0.0
+TRINITY_DN26495_c7_g3_i1 @ gi|1367437775|ref|XM_024418366.1| PREDICTED: Oncorhynchus tshawytscha dematin actin binding protein (dmtn), transcript variant X5, mRNA @ XM_024418366 @ 0.0
+TRINITY_DN26495_c7_g3_i1 @ gi|1367437773|ref|XM_024418365.1| PREDICTED: Oncorhynchus tshawytscha dematin actin binding protein (dmtn), transcript variant X4, mRNA @ XM_024418365 @ 0.0
+TRINITY_DN26495_c7_g3_i1 @ gi|1367437771|ref|XM_024418364.1| PREDICTED: Oncorhynchus tshawytscha dematin actin binding protein (dmtn), transcript variant X3, mRNA @ XM_024418364 @ 0.0
+TRINITY_DN26495_c7_g3_i1 @ gi|1367437769|ref|XM_024418363.1| PREDICTED: Oncorhynchus tshawytscha dematin actin binding protein (dmtn), transcript variant X2, mRNA @ XM_024418363 @ 0.0
+TRINITY_DN26495_c7_g3_i1 @ gi|1367437767|ref|XM_024418362.1| PREDICTED: Oncorhynchus tshawytscha dematin actin binding protein (dmtn), transcript variant X1, mRNA @ XM_024418362 @ 0.0
+TRINITY_DN26495_c7_g3_i1 @ gi|1343016411|ref|XM_024001872.1| PREDICTED: Salvelinus alpinus dematin (LOC111974218), transcript variant X2, mRNA @ XM_024001872 @ 0.0
+TRINITY_DN26495_c7_g3_i1 @ gi|1343016411|ref|XM_024001872.1| PREDICTED: Salvelinus alpinus dematin (LOC111974218), transcript variant X2, mRNA @ XM_024001872 @ 4.14789e-59
+TRINITY_DN26495_c7_g3_i1 @ gi|1343016409|ref|XM_024001871.1| PREDICTED: Salvelinus alpinus dematin (LOC111974218), transcript variant X1, mRNA @ XM_024001871 @ 0.0
+TRINITY_DN26495_c7_g3_i1 @ gi|1343016409|ref|XM_024001871.1| PREDICTED: Salvelinus alpinus dematin (LOC111974218), transcript variant X1, mRNA @ XM_024001871 @ 4.14789e-59
+TRINITY_DN26495_c7_g3_i1 @ gi|1211372108|ref|XM_021606711.1| PREDICTED: Oncorhynchus mykiss dematin actin binding protein (dmtn), mRNA @ XM_021606711 @ 0.0
+TRINITY_DN26495_c7_g3_i1 @ gi|1158862157|ref|XM_020476193.1| PREDICTED: Oncorhynchus kisutch dematin actin binding protein (dmtn), transcript variant X6, mRNA @ XM_020476193 @ 0.0
+TRINITY_DN26495_c7_g3_i1 @ gi|1158862155|ref|XM_020476188.1| PREDICTED: Oncorhynchus kisutch dematin actin binding protein (dmtn), transcript variant X5, mRNA @ XM_020476188 @ 0.0
+TRINITY_DN26495_c7_g3_i1 @ gi|1158862153|ref|XM_020476183.1| PREDICTED: Oncorhynchus kisutch dematin actin binding protein (dmtn), transcript variant X4, mRNA @ XM_020476183 @ 0.0
+TRINITY_DN26495_c7_g3_i1 @ gi|1158862151|ref|XM_020476172.1| PREDICTED: Oncorhynchus kisutch dematin actin binding protein (dmtn), transcript variant X3, mRNA @ XM_020476172 @ 0.0
+TRINITY_DN26495_c7_g3_i1 @ gi|1158862149|ref|XM_020476166.1| PREDICTED: Oncorhynchus kisutch dematin actin binding protein (dmtn), transcript variant X2, mRNA @ XM_020476166 @ 0.0
+TRINITY_DN26495_c7_g3_i1 @ gi|1158862147|ref|XM_020476160.1| PREDICTED: Oncorhynchus kisutch dematin actin binding protein (dmtn), transcript variant X1, mRNA @ XM_020476160 @ 0.0
+TRINITY_DN26495_c7_g3_i1 @ gi|1634119781|ref|XM_020052519.2| PREDICTED: Esox lucius actin filament-associated protein 1-like 2 (LOC109616509), transcript variant X2, mRNA @ XM_020052519 @ 1.11303e-53
+TRINITY_DN26495_c7_g3_i1 @ gi|1634119781|ref|XM_020052519.2| PREDICTED: Esox lucius actin filament-associated protein 1-like 2 (LOC109616509), transcript variant X2, mRNA @ XM_020052519 @ 1.35835e-14
+TRINITY_DN26495_c7_g3_i1 @ gi|1634119780|ref|XM_020052518.2| PREDICTED: Esox lucius actin filament-associated protein 1-like 2 (LOC109616509), transcript variant X1, mRNA @ XM_020052518 @ 1.11303e-53
+TRINITY_DN26495_c7_g3_i1 @ gi|1634119780|ref|XM_020052518.2| PREDICTED: Esox lucius actin filament-associated protein 1-like 2 (LOC109616509), transcript variant X1, mRNA @ XM_020052518 @ 1.35835e-14
+TRINITY_DN26495_c7_g3_i1 @ gi|1696220822|ref|XM_029741603.1| PREDICTED: Salmo trutta type I inositol 3,4-bisphosphate 4-phosphatase-like (LOC115179807), transcript variant X3, mRNA @ XM_029741603 @ 1.54987e-07
+TRINITY_DN26495_c7_g3_i1 @ gi|1696220820|ref|XM_029741602.1| PREDICTED: Salmo trutta type I inositol 3,4-bisphosphate 4-phosphatase-like (LOC115179807), transcript variant X2, mRNA @ XM_029741602 @ 1.54987e-07
+TRINITY_DN26495_c7_g3_i1 @ gi|1696220818|ref|XM_029741601.1| PREDICTED: Salmo trutta type I inositol 3,4-bisphosphate 4-phosphatase-like (LOC115179807), transcript variant X1, mRNA @ XM_029741601 @ 1.54987e-07
+TRINITY_DN38687_c3_g3_i1 @ gi|1343016262|ref|XM_024001794.1| PREDICTED: Salvelinus alpinus ankyrin-1-like (LOC111974162), mRNA @ XM_024001794 @ 2.61068e-112
+TRINITY_DN35251_c8_g2_i1 @ gi|929267483|ref|XM_014154860.1| PREDICTED: Salmo salar coiled-coil domain containing 88A (ccdc88a), mRNA @ XM_014154860 @ 3.63531e-66
+TRINITY_DN35251_c8_g2_i1 @ gi|929267483|ref|XM_014154860.1| PREDICTED: Salmo salar coiled-coil domain containing 88A (ccdc88a), mRNA @ XM_014154860 @ 1.76841
+TRINITY_DN37510_c4_g4_i1 @ gi|213513639|ref|NM_001140235.1| Salmo salar erythropoietin receptor (epor), mRNA >gi|209155021|gb|BT045481.1| Salmo salar clone ssal-rgf-522-277 Erythropoietin receptor precursor putative mRNA, complete cds @ NM_001140235 @ 0.0
+TRINITY_DN37510_c4_g4_i1 @ gi|929323601|ref|XR_001326761.1| PREDICTED: Salmo salar erythropoietin receptor-like (LOC106596776), misc_RNA @ XR_001326761 @ 0.0
+TRINITY_DN37510_c4_g4_i1 @ gi|929077313|ref|XM_014193528.1| PREDICTED: Salmo salar erythropoietin receptor-like (LOC106601362), mRNA @ XM_014193528 @ 0.0
+TRINITY_DN37510_c4_g4_i1 @ gi|224613379|gb|BT072394.1| Salmo salar clone ssal-rgf-523-297 Erythropoietin receptor precursor putative mRNA, partial cds @ BT072394 @ 0.0
+TRINITY_DN37510_c4_g4_i1 @ gi|223647625|gb|BT058858.1| Salmo salar clone ssal-rgf-508-062 Erythropoietin receptor precursor putative mRNA, complete cds @ BT058858 @ 0.0
+TRINITY_DN37510_c4_g4_i1 @ gi|1211252841|ref|XM_021625039.1| PREDICTED: Oncorhynchus mykiss erythropoietin receptor-like (LOC110538308), mRNA @ XM_021625039 @ 0.0
+TRINITY_DN37510_c4_g4_i1 @ gi|1696204461|ref|XM_029764298.1| PREDICTED: Salmo trutta erythropoietin receptor-like (LOC115201064), mRNA @ XM_029764298 @ 0.0
+TRINITY_DN37510_c4_g4_i1 @ gi|1367466131|ref|XM_024433449.1| PREDICTED: Oncorhynchus tshawytscha erythropoietin receptor-like (LOC112258832), mRNA @ XM_024433449 @ 0.0
+TRINITY_DN37510_c4_g4_i1 @ gi|1158844292|ref|XM_020475329.1| PREDICTED: Oncorhynchus kisutch erythropoietin receptor-like (LOC109883307), transcript variant X2, mRNA @ XM_020475329 @ 0.0
+TRINITY_DN37510_c4_g4_i1 @ gi|1211258646|ref|XM_021558109.1| PREDICTED: Oncorhynchus mykiss erythropoietin receptor-like (LOC110486479), mRNA @ XM_021558109 @ 0.0
+TRINITY_DN37510_c4_g4_i1 @ gi|1158844290|ref|XM_020475328.1| PREDICTED: Oncorhynchus kisutch erythropoietin receptor-like (LOC109883307), transcript variant X1, mRNA @ XM_020475328 @ 0.0
+TRINITY_DN37510_c4_g4_i1 @ gi|1367490987|ref|XM_024373182.1| PREDICTED: Oncorhynchus tshawytscha uncharacterized LOC112214445 (LOC112214445), mRNA @ XM_024373182 @ 0.0
+TRINITY_DN37510_c4_g4_i1 @ gi|1211258648|ref|XM_021558110.1| PREDICTED: Oncorhynchus mykiss uncharacterized LOC110486480 (LOC110486480), mRNA @ XM_021558110 @ 0.0
+TRINITY_DN37510_c4_g4_i1 @ gi|1158889547|ref|XM_020493677.1| PREDICTED: Oncorhynchus kisutch erythropoietin receptor-like (LOC109898638), mRNA @ XM_020493677 @ 0.0
+TRINITY_DN37510_c4_g4_i1 @ gi|1695932274|ref|XM_029636319.1| PREDICTED: Oncorhynchus nerka erythropoietin receptor-like (LOC115110559), mRNA @ XM_029636319 @ 1.64897e-89
+TRINITY_DN37510_c4_g4_i1 @ gi|1696148066|ref|XM_029726825.1| PREDICTED: Salmo trutta ATPase SWSAP1-like (LOC115170565), transcript variant X1, mRNA @ XM_029726825 @ 1.65335e-32
+TRINITY_DN37510_c4_g4_i1 @ gi|929111487|ref|XM_014211586.1| PREDICTED: Salmo salar NHS-like protein 1 (LOC106611408), transcript variant X2, mRNA @ XM_014211586 @ 2.29819e-24
+TRINITY_DN37510_c4_g4_i1 @ gi|929111485|ref|XM_014211585.1| PREDICTED: Salmo salar NHS-like protein 1 (LOC106611408), transcript variant X1, mRNA @ XM_014211585 @ 2.29819e-24
+TRINITY_DN36540_c1_g1_i1 @ gi|929305594|ref|XM_014174849.1| PREDICTED: Salmo salar dematin actin binding protein (dmtn), transcript variant X6, mRNA @ XM_014174849 @ 0.0
+TRINITY_DN36540_c1_g1_i1 @ gi|929305594|ref|XM_014174849.1| PREDICTED: Salmo salar dematin actin binding protein (dmtn), transcript variant X6, mRNA @ XM_014174849 @ 2.45595e-11
+TRINITY_DN36540_c1_g1_i1 @ gi|929305594|ref|XM_014174849.1| PREDICTED: Salmo salar dematin actin binding protein (dmtn), transcript variant X6, mRNA @ XM_014174849 @ 6.59024e-06
+TRINITY_DN36540_c1_g1_i1 @ gi|929305594|ref|XM_014174849.1| PREDICTED: Salmo salar dematin actin binding protein (dmtn), transcript variant X6, mRNA @ XM_014174849 @ 8.02855e-05
+TRINITY_DN36540_c1_g1_i1 @ gi|929305594|ref|XM_014174849.1| PREDICTED: Salmo salar dematin actin binding protein (dmtn), transcript variant X6, mRNA @ XM_014174849 @ 1.76841
+TRINITY_DN36540_c1_g1_i1 @ gi|929305592|ref|XM_014174848.1| PREDICTED: Salmo salar dematin actin binding protein (dmtn), transcript variant X5, mRNA @ XM_014174848 @ 0.0
+TRINITY_DN36540_c1_g1_i1 @ gi|929305592|ref|XM_014174848.1| PREDICTED: Salmo salar dematin actin binding protein (dmtn), transcript variant X5, mRNA @ XM_014174848 @ 2.45595e-11
+TRINITY_DN36540_c1_g1_i1 @ gi|929305592|ref|XM_014174848.1| PREDICTED: Salmo salar dematin actin binding protein (dmtn), transcript variant X5, mRNA @ XM_014174848 @ 6.59024e-06
+TRINITY_DN36540_c1_g1_i1 @ gi|929305592|ref|XM_014174848.1| PREDICTED: Salmo salar dematin actin binding protein (dmtn), transcript variant X5, mRNA @ XM_014174848 @ 8.02855e-05
+TRINITY_DN36540_c1_g1_i1 @ gi|929305592|ref|XM_014174848.1| PREDICTED: Salmo salar dematin actin binding protein (dmtn), transcript variant X5, mRNA @ XM_014174848 @ 1.76841
+TRINITY_DN36540_c1_g1_i1 @ gi|929305590|ref|XM_014174847.1| PREDICTED: Salmo salar dematin actin binding protein (dmtn), transcript variant X4, mRNA @ XM_014174847 @ 0.0
+TRINITY_DN36540_c1_g1_i1 @ gi|929305590|ref|XM_014174847.1| PREDICTED: Salmo salar dematin actin binding protein (dmtn), transcript variant X4, mRNA @ XM_014174847 @ 2.45595e-11
+TRINITY_DN36540_c1_g1_i1 @ gi|929305590|ref|XM_014174847.1| PREDICTED: Salmo salar dematin actin binding protein (dmtn), transcript variant X4, mRNA @ XM_014174847 @ 6.59024e-06
+TRINITY_DN36540_c1_g1_i1 @ gi|929305590|ref|XM_014174847.1| PREDICTED: Salmo salar dematin actin binding protein (dmtn), transcript variant X4, mRNA @ XM_014174847 @ 8.02855e-05
+TRINITY_DN36540_c1_g1_i1 @ gi|929305590|ref|XM_014174847.1| PREDICTED: Salmo salar dematin actin binding protein (dmtn), transcript variant X4, mRNA @ XM_014174847 @ 1.76841
+TRINITY_DN36540_c1_g1_i1 @ gi|929305588|ref|XM_014174846.1| PREDICTED: Salmo salar dematin actin binding protein (dmtn), transcript variant X3, mRNA @ XM_014174846 @ 0.0
+TRINITY_DN36540_c1_g1_i1 @ gi|929305588|ref|XM_014174846.1| PREDICTED: Salmo salar dematin actin binding protein (dmtn), transcript variant X3, mRNA @ XM_014174846 @ 2.45595e-11
+TRINITY_DN36540_c1_g1_i1 @ gi|929305588|ref|XM_014174846.1| PREDICTED: Salmo salar dematin actin binding protein (dmtn), transcript variant X3, mRNA @ XM_014174846 @ 6.59024e-06
+TRINITY_DN36540_c1_g1_i1 @ gi|929305588|ref|XM_014174846.1| PREDICTED: Salmo salar dematin actin binding protein (dmtn), transcript variant X3, mRNA @ XM_014174846 @ 8.02855e-05
+TRINITY_DN36540_c1_g1_i1 @ gi|929305588|ref|XM_014174846.1| PREDICTED: Salmo salar dematin actin binding protein (dmtn), transcript variant X3, mRNA @ XM_014174846 @ 1.76841
+TRINITY_DN36540_c1_g1_i1 @ gi|929305586|ref|XM_014174845.1| PREDICTED: Salmo salar dematin actin binding protein (dmtn), transcript variant X2, mRNA @ XM_014174845 @ 0.0
+TRINITY_DN36540_c1_g1_i1 @ gi|929305586|ref|XM_014174845.1| PREDICTED: Salmo salar dematin actin binding protein (dmtn), transcript variant X2, mRNA @ XM_014174845 @ 2.45595e-11
+TRINITY_DN36540_c1_g1_i1 @ gi|929305586|ref|XM_014174845.1| PREDICTED: Salmo salar dematin actin binding protein (dmtn), transcript variant X2, mRNA @ XM_014174845 @ 6.59024e-06
+TRINITY_DN36540_c1_g1_i1 @ gi|929305586|ref|XM_014174845.1| PREDICTED: Salmo salar dematin actin binding protein (dmtn), transcript variant X2, mRNA @ XM_014174845 @ 8.02855e-05
+TRINITY_DN36540_c1_g1_i1 @ gi|929305586|ref|XM_014174845.1| PREDICTED: Salmo salar dematin actin binding protein (dmtn), transcript variant X2, mRNA @ XM_014174845 @ 1.76841
+TRINITY_DN36540_c1_g1_i1 @ gi|929305584|ref|XM_014174844.1| PREDICTED: Salmo salar dematin actin binding protein (dmtn), transcript variant X1, mRNA @ XM_014174844 @ 0.0
+TRINITY_DN36540_c1_g1_i1 @ gi|929305584|ref|XM_014174844.1| PREDICTED: Salmo salar dematin actin binding protein (dmtn), transcript variant X1, mRNA @ XM_014174844 @ 2.45595e-11
+TRINITY_DN36540_c1_g1_i1 @ gi|929305584|ref|XM_014174844.1| PREDICTED: Salmo salar dematin actin binding protein (dmtn), transcript variant X1, mRNA @ XM_014174844 @ 6.59024e-06
+TRINITY_DN36540_c1_g1_i1 @ gi|929305584|ref|XM_014174844.1| PREDICTED: Salmo salar dematin actin binding protein (dmtn), transcript variant X1, mRNA @ XM_014174844 @ 8.02855e-05
+TRINITY_DN36540_c1_g1_i1 @ gi|929305584|ref|XM_014174844.1| PREDICTED: Salmo salar dematin actin binding protein (dmtn), transcript variant X1, mRNA @ XM_014174844 @ 1.76841
+TRINITY_DN36540_c1_g1_i1 @ gi|1696071817|ref|XM_029722296.1| PREDICTED: Salmo trutta dematin actin binding protein (dmtn), transcript variant X4, mRNA @ XM_029722296 @ 0.0
+TRINITY_DN36540_c1_g1_i1 @ gi|1696071817|ref|XM_029722296.1| PREDICTED: Salmo trutta dematin actin binding protein (dmtn), transcript variant X4, mRNA @ XM_029722296 @ 2.45595e-11
+TRINITY_DN36540_c1_g1_i1 @ gi|1696071817|ref|XM_029722296.1| PREDICTED: Salmo trutta dematin actin binding protein (dmtn), transcript variant X4, mRNA @ XM_029722296 @ 6.59024e-06
+TRINITY_DN36540_c1_g1_i1 @ gi|1696071817|ref|XM_029722296.1| PREDICTED: Salmo trutta dematin actin binding protein (dmtn), transcript variant X4, mRNA @ XM_029722296 @ 8.02855e-05
+TRINITY_DN36540_c1_g1_i1 @ gi|1696071815|ref|XM_029722295.1| PREDICTED: Salmo trutta dematin actin binding protein (dmtn), transcript variant X3, mRNA @ XM_029722295 @ 0.0
+TRINITY_DN36540_c1_g1_i1 @ gi|1696071815|ref|XM_029722295.1| PREDICTED: Salmo trutta dematin actin binding protein (dmtn), transcript variant X3, mRNA @ XM_029722295 @ 2.45595e-11
+TRINITY_DN36540_c1_g1_i1 @ gi|1696071815|ref|XM_029722295.1| PREDICTED: Salmo trutta dematin actin binding protein (dmtn), transcript variant X3, mRNA @ XM_029722295 @ 6.59024e-06
+TRINITY_DN36540_c1_g1_i1 @ gi|1696071815|ref|XM_029722295.1| PREDICTED: Salmo trutta dematin actin binding protein (dmtn), transcript variant X3, mRNA @ XM_029722295 @ 8.02855e-05
+TRINITY_DN36540_c1_g1_i1 @ gi|1696071813|ref|XM_029722294.1| PREDICTED: Salmo trutta dematin actin binding protein (dmtn), transcript variant X2, mRNA @ XM_029722294 @ 0.0
+TRINITY_DN36540_c1_g1_i1 @ gi|1696071813|ref|XM_029722294.1| PREDICTED: Salmo trutta dematin actin binding protein (dmtn), transcript variant X2, mRNA @ XM_029722294 @ 2.45595e-11
+TRINITY_DN36540_c1_g1_i1 @ gi|1696071813|ref|XM_029722294.1| PREDICTED: Salmo trutta dematin actin binding protein (dmtn), transcript variant X2, mRNA @ XM_029722294 @ 6.59024e-06
+TRINITY_DN36540_c1_g1_i1 @ gi|1696071813|ref|XM_029722294.1| PREDICTED: Salmo trutta dematin actin binding protein (dmtn), transcript variant X2, mRNA @ XM_029722294 @ 8.02855e-05
+TRINITY_DN36540_c1_g1_i1 @ gi|1696071811|ref|XM_029722293.1| PREDICTED: Salmo trutta dematin actin binding protein (dmtn), transcript variant X1, mRNA @ XM_029722293 @ 0.0
+TRINITY_DN36540_c1_g1_i1 @ gi|1696071811|ref|XM_029722293.1| PREDICTED: Salmo trutta dematin actin binding protein (dmtn), transcript variant X1, mRNA @ XM_029722293 @ 2.45595e-11
+TRINITY_DN36540_c1_g1_i1 @ gi|1696071811|ref|XM_029722293.1| PREDICTED: Salmo trutta dematin actin binding protein (dmtn), transcript variant X1, mRNA @ XM_029722293 @ 6.59024e-06
+TRINITY_DN36540_c1_g1_i1 @ gi|1696071811|ref|XM_029722293.1| PREDICTED: Salmo trutta dematin actin binding protein (dmtn), transcript variant X1, mRNA @ XM_029722293 @ 8.02855e-05
+TRINITY_DN36540_c1_g1_i1 @ gi|1343016411|ref|XM_024001872.1| PREDICTED: Salvelinus alpinus dematin (LOC111974218), transcript variant X2, mRNA @ XM_024001872 @ 0.0
+TRINITY_DN36540_c1_g1_i1 @ gi|1343016411|ref|XM_024001872.1| PREDICTED: Salvelinus alpinus dematin (LOC111974218), transcript variant X2, mRNA @ XM_024001872 @ 2.45595e-11
+TRINITY_DN36540_c1_g1_i1 @ gi|1343016411|ref|XM_024001872.1| PREDICTED: Salvelinus alpinus dematin (LOC111974218), transcript variant X2, mRNA @ XM_024001872 @ 5.40959e-07
+TRINITY_DN36540_c1_g1_i1 @ gi|1343016411|ref|XM_024001872.1| PREDICTED: Salvelinus alpinus dematin (LOC111974218), transcript variant X2, mRNA @ XM_024001872 @ 8.02855e-05
+TRINITY_DN36540_c1_g1_i1 @ gi|1343016411|ref|XM_024001872.1| PREDICTED: Salvelinus alpinus dematin (LOC111974218), transcript variant X2, mRNA @ XM_024001872 @ 0.506657
+TRINITY_DN36540_c1_g1_i1 @ gi|1343016411|ref|XM_024001872.1| PREDICTED: Salvelinus alpinus dematin (LOC111974218), transcript variant X2, mRNA @ XM_024001872 @ 1.76841
+TRINITY_DN36540_c1_g1_i1 @ gi|1343016409|ref|XM_024001871.1| PREDICTED: Salvelinus alpinus dematin (LOC111974218), transcript variant X1, mRNA @ XM_024001871 @ 0.0
+TRINITY_DN36540_c1_g1_i1 @ gi|1343016409|ref|XM_024001871.1| PREDICTED: Salvelinus alpinus dematin (LOC111974218), transcript variant X1, mRNA @ XM_024001871 @ 2.45595e-11
+TRINITY_DN36540_c1_g1_i1 @ gi|1343016409|ref|XM_024001871.1| PREDICTED: Salvelinus alpinus dematin (LOC111974218), transcript variant X1, mRNA @ XM_024001871 @ 5.40959e-07
+TRINITY_DN36540_c1_g1_i1 @ gi|1343016409|ref|XM_024001871.1| PREDICTED: Salvelinus alpinus dematin (LOC111974218), transcript variant X1, mRNA @ XM_024001871 @ 8.02855e-05
+TRINITY_DN36540_c1_g1_i1 @ gi|1343016409|ref|XM_024001871.1| PREDICTED: Salvelinus alpinus dematin (LOC111974218), transcript variant X1, mRNA @ XM_024001871 @ 0.506657
+TRINITY_DN36540_c1_g1_i1 @ gi|1343016409|ref|XM_024001871.1| PREDICTED: Salvelinus alpinus dematin (LOC111974218), transcript variant X1, mRNA @ XM_024001871 @ 1.76841
+TRINITY_DN36540_c1_g1_i1 @ gi|1158862157|ref|XM_020476193.1| PREDICTED: Oncorhynchus kisutch dematin actin binding protein (dmtn), transcript variant X6, mRNA @ XM_020476193 @ 0.0
+TRINITY_DN36540_c1_g1_i1 @ gi|1158862157|ref|XM_020476193.1| PREDICTED: Oncorhynchus kisutch dematin actin binding protein (dmtn), transcript variant X6, mRNA @ XM_020476193 @ 0.0415889
+TRINITY_DN36540_c1_g1_i1 @ gi|1158862157|ref|XM_020476193.1| PREDICTED: Oncorhynchus kisutch dematin actin binding protein (dmtn), transcript variant X6, mRNA @ XM_020476193 @ 0.0415889
+TRINITY_DN36540_c1_g1_i1 @ gi|1158862157|ref|XM_020476193.1| PREDICTED: Oncorhynchus kisutch dematin actin binding protein (dmtn), transcript variant X6, mRNA @ XM_020476193 @ 0.14516
+TRINITY_DN36540_c1_g1_i1 @ gi|1158862155|ref|XM_020476188.1| PREDICTED: Oncorhynchus kisutch dematin actin binding protein (dmtn), transcript variant X5, mRNA @ XM_020476188 @ 0.0
+TRINITY_DN36540_c1_g1_i1 @ gi|1158862155|ref|XM_020476188.1| PREDICTED: Oncorhynchus kisutch dematin actin binding protein (dmtn), transcript variant X5, mRNA @ XM_020476188 @ 0.0415889
+TRINITY_DN36540_c1_g1_i1 @ gi|1158862155|ref|XM_020476188.1| PREDICTED: Oncorhynchus kisutch dematin actin binding protein (dmtn), transcript variant X5, mRNA @ XM_020476188 @ 0.0415889
+TRINITY_DN36540_c1_g1_i1 @ gi|1158862155|ref|XM_020476188.1| PREDICTED: Oncorhynchus kisutch dematin actin binding protein (dmtn), transcript variant X5, mRNA @ XM_020476188 @ 0.14516
+TRINITY_DN36540_c1_g1_i1 @ gi|1158862153|ref|XM_020476183.1| PREDICTED: Oncorhynchus kisutch dematin actin binding protein (dmtn), transcript variant X4, mRNA @ XM_020476183 @ 0.0
+TRINITY_DN36540_c1_g1_i1 @ gi|1158862153|ref|XM_020476183.1| PREDICTED: Oncorhynchus kisutch dematin actin binding protein (dmtn), transcript variant X4, mRNA @ XM_020476183 @ 0.0415889
+TRINITY_DN36540_c1_g1_i1 @ gi|1158862153|ref|XM_020476183.1| PREDICTED: Oncorhynchus kisutch dematin actin binding protein (dmtn), transcript variant X4, mRNA @ XM_020476183 @ 0.0415889
+TRINITY_DN36540_c1_g1_i1 @ gi|1158862153|ref|XM_020476183.1| PREDICTED: Oncorhynchus kisutch dematin actin binding protein (dmtn), transcript variant X4, mRNA @ XM_020476183 @ 0.14516
+TRINITY_DN36540_c1_g1_i1 @ gi|1158862151|ref|XM_020476172.1| PREDICTED: Oncorhynchus kisutch dematin actin binding protein (dmtn), transcript variant X3, mRNA @ XM_020476172 @ 0.0
+TRINITY_DN36540_c1_g1_i1 @ gi|1158862151|ref|XM_020476172.1| PREDICTED: Oncorhynchus kisutch dematin actin binding protein (dmtn), transcript variant X3, mRNA @ XM_020476172 @ 0.0415889
+TRINITY_DN36540_c1_g1_i1 @ gi|1158862151|ref|XM_020476172.1| PREDICTED: Oncorhynchus kisutch dematin actin binding protein (dmtn), transcript variant X3, mRNA @ XM_020476172 @ 0.0415889
+TRINITY_DN36540_c1_g1_i1 @ gi|1158862151|ref|XM_020476172.1| PREDICTED: Oncorhynchus kisutch dematin actin binding protein (dmtn), transcript variant X3, mRNA @ XM_020476172 @ 0.14516
+TRINITY_DN36540_c1_g1_i1 @ gi|1158862149|ref|XM_020476166.1| PREDICTED: Oncorhynchus kisutch dematin actin binding protein (dmtn), transcript variant X2, mRNA @ XM_020476166 @ 0.0
+TRINITY_DN36540_c1_g1_i1 @ gi|1158862149|ref|XM_020476166.1| PREDICTED: Oncorhynchus kisutch dematin actin binding protein (dmtn), transcript variant X2, mRNA @ XM_020476166 @ 0.0415889
+TRINITY_DN36540_c1_g1_i1 @ gi|1158862149|ref|XM_020476166.1| PREDICTED: Oncorhynchus kisutch dematin actin binding protein (dmtn), transcript variant X2, mRNA @ XM_020476166 @ 0.0415889
+TRINITY_DN36540_c1_g1_i1 @ gi|1158862149|ref|XM_020476166.1| PREDICTED: Oncorhynchus kisutch dematin actin binding protein (dmtn), transcript variant X2, mRNA @ XM_020476166 @ 0.14516
+TRINITY_DN36540_c1_g1_i1 @ gi|1158862147|ref|XM_020476160.1| PREDICTED: Oncorhynchus kisutch dematin actin binding protein (dmtn), transcript variant X1, mRNA @ XM_020476160 @ 0.0
+TRINITY_DN36540_c1_g1_i1 @ gi|1158862147|ref|XM_020476160.1| PREDICTED: Oncorhynchus kisutch dematin actin binding protein (dmtn), transcript variant X1, mRNA @ XM_020476160 @ 0.0415889
+TRINITY_DN36540_c1_g1_i1 @ gi|1158862147|ref|XM_020476160.1| PREDICTED: Oncorhynchus kisutch dematin actin binding protein (dmtn), transcript variant X1, mRNA @ XM_020476160 @ 0.0415889
+TRINITY_DN36540_c1_g1_i1 @ gi|1158862147|ref|XM_020476160.1| PREDICTED: Oncorhynchus kisutch dematin actin binding protein (dmtn), transcript variant X1, mRNA @ XM_020476160 @ 0.14516
+TRINITY_DN36540_c1_g1_i1 @ gi|1367437779|ref|XM_024418368.1| PREDICTED: Oncorhynchus tshawytscha dematin actin binding protein (dmtn), transcript variant X7, mRNA @ XM_024418368 @ 0.0
+TRINITY_DN36540_c1_g1_i1 @ gi|1367437779|ref|XM_024418368.1| PREDICTED: Oncorhynchus tshawytscha dematin actin binding protein (dmtn), transcript variant X7, mRNA @ XM_024418368 @ 1.54987e-07
+TRINITY_DN36540_c1_g1_i1 @ gi|1367437779|ref|XM_024418368.1| PREDICTED: Oncorhynchus tshawytscha dematin actin binding protein (dmtn), transcript variant X7, mRNA @ XM_024418368 @ 0.000978078
+TRINITY_DN36540_c1_g1_i1 @ gi|1367437779|ref|XM_024418368.1| PREDICTED: Oncorhynchus tshawytscha dematin actin binding protein (dmtn), transcript variant X7, mRNA @ XM_024418368 @ 0.506657
+TRINITY_DN36540_c1_g1_i1 @ gi|1367437777|ref|XM_024418367.1| PREDICTED: Oncorhynchus tshawytscha dematin actin binding protein (dmtn), transcript variant X6, mRNA @ XM_024418367 @ 0.0
+TRINITY_DN36540_c1_g1_i1 @ gi|1367437777|ref|XM_024418367.1| PREDICTED: Oncorhynchus tshawytscha dematin actin binding protein (dmtn), transcript variant X6, mRNA @ XM_024418367 @ 1.54987e-07
+TRINITY_DN36540_c1_g1_i1 @ gi|1367437777|ref|XM_024418367.1| PREDICTED: Oncorhynchus tshawytscha dematin actin binding protein (dmtn), transcript variant X6, mRNA @ XM_024418367 @ 0.000978078
+TRINITY_DN36540_c1_g1_i1 @ gi|1367437777|ref|XM_024418367.1| PREDICTED: Oncorhynchus tshawytscha dematin actin binding protein (dmtn), transcript variant X6, mRNA @ XM_024418367 @ 0.506657
+TRINITY_DN36540_c1_g1_i1 @ gi|1367437775|ref|XM_024418366.1| PREDICTED: Oncorhynchus tshawytscha dematin actin binding protein (dmtn), transcript variant X5, mRNA @ XM_024418366 @ 0.0
+TRINITY_DN36540_c1_g1_i1 @ gi|1367437775|ref|XM_024418366.1| PREDICTED: Oncorhynchus tshawytscha dematin actin binding protein (dmtn), transcript variant X5, mRNA @ XM_024418366 @ 1.54987e-07
+TRINITY_DN36540_c1_g1_i1 @ gi|1367437775|ref|XM_024418366.1| PREDICTED: Oncorhynchus tshawytscha dematin actin binding protein (dmtn), transcript variant X5, mRNA @ XM_024418366 @ 0.000978078
+TRINITY_DN36540_c1_g1_i1 @ gi|1367437775|ref|XM_024418366.1| PREDICTED: Oncorhynchus tshawytscha dematin actin binding protein (dmtn), transcript variant X5, mRNA @ XM_024418366 @ 0.506657
+TRINITY_DN36540_c1_g1_i1 @ gi|1367437773|ref|XM_024418365.1| PREDICTED: Oncorhynchus tshawytscha dematin actin binding protein (dmtn), transcript variant X4, mRNA @ XM_024418365 @ 0.0
+TRINITY_DN36540_c1_g1_i1 @ gi|1367437773|ref|XM_024418365.1| PREDICTED: Oncorhynchus tshawytscha dematin actin binding protein (dmtn), transcript variant X4, mRNA @ XM_024418365 @ 1.54987e-07
+TRINITY_DN36540_c1_g1_i1 @ gi|1367437773|ref|XM_024418365.1| PREDICTED: Oncorhynchus tshawytscha dematin actin binding protein (dmtn), transcript variant X4, mRNA @ XM_024418365 @ 0.000978078
+TRINITY_DN36540_c1_g1_i1 @ gi|1367437773|ref|XM_024418365.1| PREDICTED: Oncorhynchus tshawytscha dematin actin binding protein (dmtn), transcript variant X4, mRNA @ XM_024418365 @ 0.506657
+TRINITY_DN36540_c1_g1_i1 @ gi|1367437771|ref|XM_024418364.1| PREDICTED: Oncorhynchus tshawytscha dematin actin binding protein (dmtn), transcript variant X3, mRNA @ XM_024418364 @ 0.0
+TRINITY_DN36540_c1_g1_i1 @ gi|1367437771|ref|XM_024418364.1| PREDICTED: Oncorhynchus tshawytscha dematin actin binding protein (dmtn), transcript variant X3, mRNA @ XM_024418364 @ 1.54987e-07
+TRINITY_DN36540_c1_g1_i1 @ gi|1367437771|ref|XM_024418364.1| PREDICTED: Oncorhynchus tshawytscha dematin actin binding protein (dmtn), transcript variant X3, mRNA @ XM_024418364 @ 0.000978078
+TRINITY_DN36540_c1_g1_i1 @ gi|1367437771|ref|XM_024418364.1| PREDICTED: Oncorhynchus tshawytscha dematin actin binding protein (dmtn), transcript variant X3, mRNA @ XM_024418364 @ 0.506657
+TRINITY_DN36540_c1_g1_i1 @ gi|1367437769|ref|XM_024418363.1| PREDICTED: Oncorhynchus tshawytscha dematin actin binding protein (dmtn), transcript variant X2, mRNA @ XM_024418363 @ 0.0
+TRINITY_DN36540_c1_g1_i1 @ gi|1367437769|ref|XM_024418363.1| PREDICTED: Oncorhynchus tshawytscha dematin actin binding protein (dmtn), transcript variant X2, mRNA @ XM_024418363 @ 1.54987e-07
+TRINITY_DN36540_c1_g1_i1 @ gi|1367437769|ref|XM_024418363.1| PREDICTED: Oncorhynchus tshawytscha dematin actin binding protein (dmtn), transcript variant X2, mRNA @ XM_024418363 @ 0.000978078
+TRINITY_DN36540_c1_g1_i1 @ gi|1367437769|ref|XM_024418363.1| PREDICTED: Oncorhynchus tshawytscha dematin actin binding protein (dmtn), transcript variant X2, mRNA @ XM_024418363 @ 0.506657
+TRINITY_DN36540_c1_g1_i1 @ gi|1367437767|ref|XM_024418362.1| PREDICTED: Oncorhynchus tshawytscha dematin actin binding protein (dmtn), transcript variant X1, mRNA @ XM_024418362 @ 0.0
+TRINITY_DN36540_c1_g1_i1 @ gi|1367437767|ref|XM_024418362.1| PREDICTED: Oncorhynchus tshawytscha dematin actin binding protein (dmtn), transcript variant X1, mRNA @ XM_024418362 @ 1.54987e-07
+TRINITY_DN36540_c1_g1_i1 @ gi|1367437767|ref|XM_024418362.1| PREDICTED: Oncorhynchus tshawytscha dematin actin binding protein (dmtn), transcript variant X1, mRNA @ XM_024418362 @ 0.000978078
+TRINITY_DN36540_c1_g1_i1 @ gi|1367437767|ref|XM_024418362.1| PREDICTED: Oncorhynchus tshawytscha dematin actin binding protein (dmtn), transcript variant X1, mRNA @ XM_024418362 @ 0.506657
+TRINITY_DN36540_c1_g1_i1 @ gi|1211372108|ref|XM_021606711.1| PREDICTED: Oncorhynchus mykiss dematin actin binding protein (dmtn), mRNA @ XM_021606711 @ 0.0
+TRINITY_DN36540_c1_g1_i1 @ gi|1211372108|ref|XM_021606711.1| PREDICTED: Oncorhynchus mykiss dematin actin binding protein (dmtn), mRNA @ XM_021606711 @ 1.54987e-07
+TRINITY_DN36540_c1_g1_i1 @ gi|1211372108|ref|XM_021606711.1| PREDICTED: Oncorhynchus mykiss dematin actin binding protein (dmtn), mRNA @ XM_021606711 @ 6.59024e-06
+TRINITY_DN36540_c1_g1_i1 @ gi|1211372108|ref|XM_021606711.1| PREDICTED: Oncorhynchus mykiss dematin actin binding protein (dmtn), mRNA @ XM_021606711 @ 0.0415889
+TRINITY_DN36540_c1_g1_i1 @ gi|1211275166|ref|XM_021565815.1| PREDICTED: Oncorhynchus mykiss adenylate cyclase type 6-like (LOC110491936), mRNA @ XM_021565815 @ 4.15522e-21
+TRINITY_DN36540_c1_g1_i1 @ gi|1211275166|ref|XM_021565815.1| PREDICTED: Oncorhynchus mykiss adenylate cyclase type 6-like (LOC110491936), mRNA @ XM_021565815 @ 7.03642e-12
+TRINITY_DN36540_c1_g1_i1 @ gi|1211275166|ref|XM_021565815.1| PREDICTED: Oncorhynchus mykiss adenylate cyclase type 6-like (LOC110491936), mRNA @ XM_021565815 @ 0.000978078
+TRINITY_DN36540_c1_g1_i1 @ gi|1211275166|ref|XM_021565815.1| PREDICTED: Oncorhynchus mykiss adenylate cyclase type 6-like (LOC110491936), mRNA @ XM_021565815 @ 0.0415889
+TRINITY_DN27557_c1_g1_i1 @ gi|1696213401|ref|XM_029689544.1| PREDICTED: Salmo trutta Krueppel-like factor 1 (LOC115147343), mRNA @ XM_029689544 @ 0.0
+TRINITY_DN27557_c1_g1_i1 @ gi|1696104304|ref|XM_029739617.1| PREDICTED: Salmo trutta Krueppel-like factor 1 (LOC115178431), mRNA @ XM_029739617 @ 0.0
+TRINITY_DN27557_c1_g1_i1 @ gi|929068778|ref|XM_014179823.1| PREDICTED: Salmo salar Krueppel-like factor 1 (LOC106589620), mRNA @ XM_014179823 @ 0.0
+TRINITY_DN27557_c1_g1_i1 @ gi|1211256142|ref|XR_002467956.1| PREDICTED: Oncorhynchus mykiss uncharacterized LOC110485667 (LOC110485667), ncRNA @ XR_002467956 @ 5.36676e-178
+TRINITY_DN27557_c1_g1_i1 @ gi|1634109230|ref|XM_010872826.3| PREDICTED: Esox lucius Krueppel-like factor 4 (LOC105012159), mRNA @ XM_010872826 @ 1.65481e-13
+TRINITY_DN27557_c1_g1_i1 @ gi|1620131120|ref|XM_028673863.1| Plasmodium gallinaceum conserved Plasmodium protein, unknown function (PGAL8A_00504600), partial mRNA @ XM_028673863 @ 0.14516
+TRINITY_DN27557_c1_g1_i1 @ gi|1148331279|gb|CP016087.1| Clostridium saccharoperbutylacetonicum strain N1-504, complete genome @ CP016087 @ 0.14516
+TRINITY_DN27557_c1_g1_i1 @ gi|827026130|emb|LM525304.1| Strongyloides venezuelensis genome assembly S_venezuelensis_HH1, scaffold SVE_contig0000205 @ LM525304 @ 0.506657
+TRINITY_DN27557_c1_g1_i1 @ gi|1691685089|ref|XM_008839570.3| PREDICTED: Nannospalax galili serine/threonine/tyrosine interacting protein (Styx), mRNA @ XM_008839570 @ 0.506657
+TRINITY_DN27557_c1_g1_i1 @ gi|1616363024|ref|NM_001205708.2| Bos taurus tubulin tyrosine ligase like 4 (TTLL4), mRNA @ NM_001205708 @ 0.506657
+TRINITY_DN27557_c1_g1_i1 @ gi|1567530909|ref|XM_027965194.1| PREDICTED: Ovis aries tubulin tyrosine ligase like 4 (TTLL4), mRNA @ XM_027965194 @ 0.506657
+TRINITY_DN27557_c1_g1_i1 @ gi|1542909954|ref|XM_027513559.1| PREDICTED: Bos indicus x Bos taurus tubulin tyrosine ligase like 4 (TTLL4), mRNA @ XM_027513559 @ 0.506657
+TRINITY_DN27557_c1_g1_i1 @ gi|1408485230|ref|XM_025278269.1| PREDICTED: Bubalus bubalis tubulin tyrosine ligase like 4 (TTLL4), mRNA @ XM_025278269 @ 0.506657
+TRINITY_DN27557_c1_g1_i1 @ gi|1131214241|ref|XM_019976875.1| PREDICTED: Bos indicus tubulin tyrosine ligase like 4 (TTLL4), mRNA @ XM_019976875 @ 0.506657
+TRINITY_DN27557_c1_g1_i1 @ gi|965795648|ref|XM_012113702.2| PREDICTED: Ovis aries musimon tubulin tyrosine ligase like 4 (TTLL4), transcript variant X5, mRNA @ XM_012113702 @ 0.506657
+c157352_g1_i1 @ gi|1696162587|ref|XM_029705022.1| PREDICTED: Salmo trutta glutamine synthetase (LOC115157095), transcript variant X1, mRNA @ XM_029705022 @ 0.00341383
+c157352_g1_i1 @ gi|1228798643|ref|XM_022178083.1| PREDICTED: Helianthus annuus pyrophosphate-energized vacuolar membrane proton pump 1-like (LOC110935741), mRNA @ XM_022178083 @ 0.14516
+c157352_g1_i1 @ gi|1624423963|ref|XM_028956629.1| PREDICTED: Denticeps clupeoides lactase-like protein (LOC114766030), transcript variant X8, mRNA @ XM_028956629 @ 0.506657
+c157352_g1_i1 @ gi|1624423959|ref|XM_028956627.1| PREDICTED: Denticeps clupeoides lactase-like protein (LOC114766030), transcript variant X6, mRNA @ XM_028956627 @ 0.506657
+c157352_g1_i1 @ gi|1624423957|ref|XM_028956626.1| PREDICTED: Denticeps clupeoides lactase-like protein (LOC114766030), transcript variant X5, mRNA @ XM_028956626 @ 0.506657
+c157352_g1_i1 @ gi|1624423955|ref|XM_028956625.1| PREDICTED: Denticeps clupeoides lactase-like protein (LOC114766030), transcript variant X4, mRNA @ XM_028956625 @ 0.506657
+c157352_g1_i1 @ gi|1624423953|ref|XM_028956624.1| PREDICTED: Denticeps clupeoides lactase-like protein (LOC114766030), transcript variant X3, mRNA @ XM_028956624 @ 0.506657
+c157352_g1_i1 @ gi|1624423951|ref|XM_028956623.1| PREDICTED: Denticeps clupeoides lactase-like protein (LOC114766030), transcript variant X2, mRNA @ XM_028956623 @ 0.506657
+c157352_g1_i1 @ gi|1624423949|ref|XM_028956622.1| PREDICTED: Denticeps clupeoides lactase-like protein (LOC114766030), transcript variant X1, mRNA @ XM_028956622 @ 0.506657
+c157352_g1_i1 @ gi|1709515950|ref|XM_029997796.1| PREDICTED: Aquila chrysaetos chrysaetos ring finger protein 130 (RNF130), transcript variant X1, mRNA @ XM_029997796 @ 0.506657
+c157352_g1_i1 @ gi|768345761|ref|XM_011571311.1| PREDICTED: Aquila chrysaetos canadensis ring finger protein 130 (RNF130), transcript variant X1, mRNA @ XM_011571311 @ 0.506657
+c157352_g1_i1 @ gi|723132058|ref|XM_010284173.1| PREDICTED: Phaethon lepturus E3 ubiquitin-protein ligase RNF130-like (LOC104618547), mRNA @ XM_010284173 @ 0.506657
+c157352_g1_i1 @ gi|705664179|ref|XM_010129958.1| PREDICTED: Chlamydotis macqueenii ring finger protein 130 (RNF130), transcript variant X1, mRNA @ XM_010129958 @ 0.506657
+c157352_g1_i1 @ gi|685044404|emb|LN592929.1| Cyprinus carpio genome assembly common carp genome ,scaffold 000000300 @ LN592929 @ 0.506657
+c157352_g1_i1 @ gi|1605510874|ref|NM_001369315.1| Glycine max protein ESKIMO 1-like (LOC100789919), mRNA @ NM_001369315 @ 1.76841
+c157352_g1_i1 @ gi|1590601380|ref|XM_028345404.1| PREDICTED: Glycine soja protein ESKIMO 1-like (LOC114385358), mRNA @ XM_028345404 @ 1.76841
+c157352_g1_i1 @ gi|1183208190|ref|XM_012404656.2| PREDICTED: Athalia rosae Kv channel-interacting protein 2-like (LOC105688388), transcript variant X1, mRNA @ XM_012404656 @ 1.76841
+c157352_g1_i1 @ gi|112420622|gb|BT027439.1| Gasterosteus aculeatus clone CFW280-B11 mRNA sequence @ BT027439 @ 1.76841
+c157352_g1_i1 @ gi|51988394|emb|BX323543.11| Zebrafish DNA sequence from clone DKEYP-67E1 in linkage group 25, complete sequence @ BX323543 @ 1.76841
+c157352_g1_i1 @ gi|1711369838|emb|LR664085.1| XXX @ LR664085 @ 1.76841
+c157352_g1_i1 @ gi|388504469|gb|BT140506.1| Medicago truncatula clone JCVI-FLMt-18N14 unknown mRNA @ BT140506 @ 1.76841
+c157352_g1_i1 @ gi|375235367|gb|JN777657.1| Cyprinus carpio clone 891598 microsatellite sequence @ JN777657 @ 1.76841
+c157352_g1_i1 @ gi|77817016|gb|DQ244340.1| Zea mays clone 5223 mRNA sequence @ DQ244340 @ 1.76841
+c157352_g1_i1 @ gi|93204810|emb|CR376782.8| Zebrafish DNA sequence from clone CH211-235O4 in linkage group 25, complete sequence @ CR376782 @ 1.76841
+TRINITY_DN39595_c3_g1_i10 @ gi|1696193901|ref|XR_003879527.1| PREDICTED: Salmo trutta uncharacterized LOC115200483 (LOC115200483), ncRNA @ XR_003879527 @ 1.88647e-25
+TRINITY_DN39595_c3_g1_i10 @ gi|1343064904|ref|XR_002876498.1| PREDICTED: Salvelinus alpinus uncharacterized LOC111958211 (LOC111958211), ncRNA @ XR_002876498 @ 1.88647e-25
+TRINITY_DN39595_c3_g1_i10 @ gi|1696187347|ref|XR_003873114.1| PREDICTED: Salmo trutta uncharacterized LOC115180568 (LOC115180568), ncRNA @ XR_003873114 @ 9.77214e-23
+c70485_g1_i3 @ gi|1696206889|ref|XM_029776800.1| PREDICTED: Salmo trutta actin-related protein 2/3 complex subunit 1A-A-like (LOC115208606), mRNA @ XM_029776800 @ 2.14108e-132
+c70485_g1_i3 @ gi|1696206889|ref|XM_029776800.1| PREDICTED: Salmo trutta actin-related protein 2/3 complex subunit 1A-A-like (LOC115208606), mRNA @ XM_029776800 @ 5.77585e-13
+c70485_g1_i3 @ gi|1696152516|ref|XM_029729186.1| PREDICTED: Salmo trutta actin-related protein 2/3 complex subunit 1A-A-like (LOC115171933), mRNA @ XM_029729186 @ 7.98612e-119
+c70485_g1_i3 @ gi|1696152516|ref|XM_029729186.1| PREDICTED: Salmo trutta actin-related protein 2/3 complex subunit 1A-A-like (LOC115171933), mRNA @ XM_029729186 @ 5.77585e-13
+c70485_g1_i3 @ gi|929094075|ref|XM_014202371.1| PREDICTED: Salmo salar actin-related protein 2/3 complex subunit 1B-like (LOC106606227), mRNA @ XM_014202371 @ 9.11215e-112
+c70485_g1_i3 @ gi|929094075|ref|XM_014202371.1| PREDICTED: Salmo salar actin-related protein 2/3 complex subunit 1B-like (LOC106606227), mRNA @ XM_014202371 @ 2.45595e-11
+c70485_g1_i3 @ gi|1367415482|ref|XM_024409419.1| PREDICTED: Oncorhynchus tshawytscha actin-related protein 2/3 complex subunit 1A-like (LOC112241287), mRNA @ XM_024409419 @ 1.64752e-108
+c70485_g1_i3 @ gi|1367415482|ref|XM_024409419.1| PREDICTED: Oncorhynchus tshawytscha actin-related protein 2/3 complex subunit 1A-like (LOC112241287), mRNA @ XM_024409419 @ 2.45595e-11
+c70485_g1_i3 @ gi|1158829580|ref|XM_020468633.1| PREDICTED: Oncorhynchus kisutch actin-related protein 2/3 complex subunit 1A-like (LOC109876167), mRNA @ XM_020468633 @ 3.88144e-72
+c70485_g1_i3 @ gi|1158829580|ref|XM_020468633.1| PREDICTED: Oncorhynchus kisutch actin-related protein 2/3 complex subunit 1A-like (LOC109876167), mRNA @ XM_020468633 @ 1.88813e-06
+c70485_g1_i3 @ gi|1158829580|ref|XM_020468633.1| PREDICTED: Oncorhynchus kisutch actin-related protein 2/3 complex subunit 1A-like (LOC109876167), mRNA @ XM_020468633 @ 1.88813e-06
+c70485_g1_i3 @ gi|1367499590|ref|XM_024377834.1| PREDICTED: Oncorhynchus tshawytscha transcription regulator protein BACH2-like (LOC112217511), transcript variant X2, mRNA @ XM_024377834 @ 3.19171e-35
+c70485_g1_i3 @ gi|1367499588|ref|XM_024377833.1| PREDICTED: Oncorhynchus tshawytscha transcription regulator protein BACH2-like (LOC112217511), transcript variant X1, mRNA @ XM_024377833 @ 3.19171e-35
+TRINITY_DN35814_c1_g1_i7 @ gi|1343068922|ref|XR_002876720.1| PREDICTED: Salvelinus alpinus uncharacterized LOC111959770 (LOC111959770), ncRNA @ XR_002876720 @ 1.64606e-127
+TRINITY_DN35814_c1_g1_i7 @ gi|1343068922|ref|XR_002876720.1| PREDICTED: Salvelinus alpinus uncharacterized LOC111959770 (LOC111959770), ncRNA @ XR_002876720 @ 8.54188e-87
+TRINITY_DN35814_c1_g1_i7 @ gi|262189345|gb|FJ969489.1| Salmo salar clone BAC CHORI214-184H23 aryl hydrocarbon receptor 2 alpha (AhR2a) gene, partial cds; aryl hydrocarbon receptor 1 beta-like protein (AhR1b) gene, MHC class I antigen (Sasa-UHA1) gene, Sasa-UHA1*0101 allele, MHC class I antigen (Sasa-UHA2) gene, Sasa-UHA2*0101 allele, and 1-acylglycerol-3-phosphate O-acyltransferase 3 (AGPAT3) gene, complete cds; and pyroxidal kinase (PDXK) gene, partial cds @ FJ969489 @ 1.76217e-76
+TRINITY_DN35814_c1_g1_i7 @ gi|262189345|gb|FJ969489.1| Salmo salar clone BAC CHORI214-184H23 aryl hydrocarbon receptor 2 alpha (AhR2a) gene, partial cds; aryl hydrocarbon receptor 1 beta-like protein (AhR1b) gene, MHC class I antigen (Sasa-UHA1) gene, Sasa-UHA1*0101 allele, MHC class I antigen (Sasa-UHA2) gene, Sasa-UHA2*0101 allele, and 1-acylglycerol-3-phosphate O-acyltransferase 3 (AGPAT3) gene, complete cds; and pyroxidal kinase (PDXK) gene, partial cds @ FJ969489 @ 2.29616e-43
+TRINITY_DN35814_c1_g1_i7 @ gi|262189345|gb|FJ969489.1| Salmo salar clone BAC CHORI214-184H23 aryl hydrocarbon receptor 2 alpha (AhR2a) gene, partial cds; aryl hydrocarbon receptor 1 beta-like protein (AhR1b) gene, MHC class I antigen (Sasa-UHA1) gene, Sasa-UHA1*0101 allele, MHC class I antigen (Sasa-UHA2) gene, Sasa-UHA2*0101 allele, and 1-acylglycerol-3-phosphate O-acyltransferase 3 (AGPAT3) gene, complete cds; and pyroxidal kinase (PDXK) gene, partial cds @ FJ969489 @ 2.29616e-43
+TRINITY_DN35814_c1_g1_i7 @ gi|262189345|gb|FJ969489.1| Salmo salar clone BAC CHORI214-184H23 aryl hydrocarbon receptor 2 alpha (AhR2a) gene, partial cds; aryl hydrocarbon receptor 1 beta-like protein (AhR1b) gene, MHC class I antigen (Sasa-UHA1) gene, Sasa-UHA1*0101 allele, MHC class I antigen (Sasa-UHA2) gene, Sasa-UHA2*0101 allele, and 1-acylglycerol-3-phosphate O-acyltransferase 3 (AGPAT3) gene, complete cds; and pyroxidal kinase (PDXK) gene, partial cds @ FJ969489 @ 2.79729e-42
+TRINITY_DN35814_c1_g1_i7 @ gi|262189345|gb|FJ969489.1| Salmo salar clone BAC CHORI214-184H23 aryl hydrocarbon receptor 2 alpha (AhR2a) gene, partial cds; aryl hydrocarbon receptor 1 beta-like protein (AhR1b) gene, MHC class I antigen (Sasa-UHA1) gene, Sasa-UHA1*0101 allele, MHC class I antigen (Sasa-UHA2) gene, Sasa-UHA2*0101 allele, and 1-acylglycerol-3-phosphate O-acyltransferase 3 (AGPAT3) gene, complete cds; and pyroxidal kinase (PDXK) gene, partial cds @ FJ969489 @ 9.76351e-42
+TRINITY_DN35814_c1_g1_i7 @ gi|262189345|gb|FJ969489.1| Salmo salar clone BAC CHORI214-184H23 aryl hydrocarbon receptor 2 alpha (AhR2a) gene, partial cds; aryl hydrocarbon receptor 1 beta-like protein (AhR1b) gene, MHC class I antigen (Sasa-UHA1) gene, Sasa-UHA1*0101 allele, MHC class I antigen (Sasa-UHA2) gene, Sasa-UHA2*0101 allele, and 1-acylglycerol-3-phosphate O-acyltransferase 3 (AGPAT3) gene, complete cds; and pyroxidal kinase (PDXK) gene, partial cds @ FJ969489 @ 9.76351e-42
+TRINITY_DN35814_c1_g1_i7 @ gi|262189345|gb|FJ969489.1| Salmo salar clone BAC CHORI214-184H23 aryl hydrocarbon receptor 2 alpha (AhR2a) gene, partial cds; aryl hydrocarbon receptor 1 beta-like protein (AhR1b) gene, MHC class I antigen (Sasa-UHA1) gene, Sasa-UHA1*0101 allele, MHC class I antigen (Sasa-UHA2) gene, Sasa-UHA2*0101 allele, and 1-acylglycerol-3-phosphate O-acyltransferase 3 (AGPAT3) gene, complete cds; and pyroxidal kinase (PDXK) gene, partial cds @ FJ969489 @ 1.18944e-40
+TRINITY_DN35814_c1_g1_i7 @ gi|262189345|gb|FJ969489.1| Salmo salar clone BAC CHORI214-184H23 aryl hydrocarbon receptor 2 alpha (AhR2a) gene, partial cds; aryl hydrocarbon receptor 1 beta-like protein (AhR1b) gene, MHC class I antigen (Sasa-UHA1) gene, Sasa-UHA1*0101 allele, MHC class I antigen (Sasa-UHA2) gene, Sasa-UHA2*0101 allele, and 1-acylglycerol-3-phosphate O-acyltransferase 3 (AGPAT3) gene, complete cds; and pyroxidal kinase (PDXK) gene, partial cds @ FJ969489 @ 1.18944e-40
+TRINITY_DN35814_c1_g1_i7 @ gi|262189345|gb|FJ969489.1| Salmo salar clone BAC CHORI214-184H23 aryl hydrocarbon receptor 2 alpha (AhR2a) gene, partial cds; aryl hydrocarbon receptor 1 beta-like protein (AhR1b) gene, MHC class I antigen (Sasa-UHA1) gene, Sasa-UHA1*0101 allele, MHC class I antigen (Sasa-UHA2) gene, Sasa-UHA2*0101 allele, and 1-acylglycerol-3-phosphate O-acyltransferase 3 (AGPAT3) gene, complete cds; and pyroxidal kinase (PDXK) gene, partial cds @ FJ969489 @ 4.15155e-40
+TRINITY_DN35814_c1_g1_i7 @ gi|262189345|gb|FJ969489.1| Salmo salar clone BAC CHORI214-184H23 aryl hydrocarbon receptor 2 alpha (AhR2a) gene, partial cds; aryl hydrocarbon receptor 1 beta-like protein (AhR1b) gene, MHC class I antigen (Sasa-UHA1) gene, Sasa-UHA1*0101 allele, MHC class I antigen (Sasa-UHA2) gene, Sasa-UHA2*0101 allele, and 1-acylglycerol-3-phosphate O-acyltransferase 3 (AGPAT3) gene, complete cds; and pyroxidal kinase (PDXK) gene, partial cds @ FJ969489 @ 6.16145e-38
+TRINITY_DN35814_c1_g1_i7 @ gi|262189345|gb|FJ969489.1| Salmo salar clone BAC CHORI214-184H23 aryl hydrocarbon receptor 2 alpha (AhR2a) gene, partial cds; aryl hydrocarbon receptor 1 beta-like protein (AhR1b) gene, MHC class I antigen (Sasa-UHA1) gene, Sasa-UHA1*0101 allele, MHC class I antigen (Sasa-UHA2) gene, Sasa-UHA2*0101 allele, and 1-acylglycerol-3-phosphate O-acyltransferase 3 (AGPAT3) gene, complete cds; and pyroxidal kinase (PDXK) gene, partial cds @ FJ969489 @ 6.16145e-38
+TRINITY_DN35814_c1_g1_i7 @ gi|262189345|gb|FJ969489.1| Salmo salar clone BAC CHORI214-184H23 aryl hydrocarbon receptor 2 alpha (AhR2a) gene, partial cds; aryl hydrocarbon receptor 1 beta-like protein (AhR1b) gene, MHC class I antigen (Sasa-UHA1) gene, Sasa-UHA1*0101 allele, MHC class I antigen (Sasa-UHA2) gene, Sasa-UHA2*0101 allele, and 1-acylglycerol-3-phosphate O-acyltransferase 3 (AGPAT3) gene, complete cds; and pyroxidal kinase (PDXK) gene, partial cds @ FJ969489 @ 3.8883e-34
+TRINITY_DN35814_c1_g1_i7 @ gi|262189345|gb|FJ969489.1| Salmo salar clone BAC CHORI214-184H23 aryl hydrocarbon receptor 2 alpha (AhR2a) gene, partial cds; aryl hydrocarbon receptor 1 beta-like protein (AhR1b) gene, MHC class I antigen (Sasa-UHA1) gene, Sasa-UHA1*0101 allele, MHC class I antigen (Sasa-UHA2) gene, Sasa-UHA2*0101 allele, and 1-acylglycerol-3-phosphate O-acyltransferase 3 (AGPAT3) gene, complete cds; and pyroxidal kinase (PDXK) gene, partial cds @ FJ969489 @ 5.77075e-32
+TRINITY_DN35814_c1_g1_i7 @ gi|262189345|gb|FJ969489.1| Salmo salar clone BAC CHORI214-184H23 aryl hydrocarbon receptor 2 alpha (AhR2a) gene, partial cds; aryl hydrocarbon receptor 1 beta-like protein (AhR1b) gene, MHC class I antigen (Sasa-UHA1) gene, Sasa-UHA1*0101 allele, MHC class I antigen (Sasa-UHA2) gene, Sasa-UHA2*0101 allele, and 1-acylglycerol-3-phosphate O-acyltransferase 3 (AGPAT3) gene, complete cds; and pyroxidal kinase (PDXK) gene, partial cds @ FJ969489 @ 2.01419e-31
+TRINITY_DN35814_c1_g1_i7 @ gi|262189345|gb|FJ969489.1| Salmo salar clone BAC CHORI214-184H23 aryl hydrocarbon receptor 2 alpha (AhR2a) gene, partial cds; aryl hydrocarbon receptor 1 beta-like protein (AhR1b) gene, MHC class I antigen (Sasa-UHA1) gene, Sasa-UHA1*0101 allele, MHC class I antigen (Sasa-UHA2) gene, Sasa-UHA2*0101 allele, and 1-acylglycerol-3-phosphate O-acyltransferase 3 (AGPAT3) gene, complete cds; and pyroxidal kinase (PDXK) gene, partial cds @ FJ969489 @ 7.03021e-31
+TRINITY_DN35814_c1_g1_i7 @ gi|262189345|gb|FJ969489.1| Salmo salar clone BAC CHORI214-184H23 aryl hydrocarbon receptor 2 alpha (AhR2a) gene, partial cds; aryl hydrocarbon receptor 1 beta-like protein (AhR1b) gene, MHC class I antigen (Sasa-UHA1) gene, Sasa-UHA1*0101 allele, MHC class I antigen (Sasa-UHA2) gene, Sasa-UHA2*0101 allele, and 1-acylglycerol-3-phosphate O-acyltransferase 3 (AGPAT3) gene, complete cds; and pyroxidal kinase (PDXK) gene, partial cds @ FJ969489 @ 8.56455e-30
+TRINITY_DN35814_c1_g1_i7 @ gi|262189345|gb|FJ969489.1| Salmo salar clone BAC CHORI214-184H23 aryl hydrocarbon receptor 2 alpha (AhR2a) gene, partial cds; aryl hydrocarbon receptor 1 beta-like protein (AhR1b) gene, MHC class I antigen (Sasa-UHA1) gene, Sasa-UHA1*0101 allele, MHC class I antigen (Sasa-UHA2) gene, Sasa-UHA2*0101 allele, and 1-acylglycerol-3-phosphate O-acyltransferase 3 (AGPAT3) gene, complete cds; and pyroxidal kinase (PDXK) gene, partial cds @ FJ969489 @ 4.15522e-21
+TRINITY_DN35814_c1_g1_i7 @ gi|262189345|gb|FJ969489.1| Salmo salar clone BAC CHORI214-184H23 aryl hydrocarbon receptor 2 alpha (AhR2a) gene, partial cds; aryl hydrocarbon receptor 1 beta-like protein (AhR1b) gene, MHC class I antigen (Sasa-UHA1) gene, Sasa-UHA1*0101 allele, MHC class I antigen (Sasa-UHA2) gene, Sasa-UHA2*0101 allele, and 1-acylglycerol-3-phosphate O-acyltransferase 3 (AGPAT3) gene, complete cds; and pyroxidal kinase (PDXK) gene, partial cds @ FJ969489 @ 1.45031e-20
+TRINITY_DN35814_c1_g1_i7 @ gi|262189345|gb|FJ969489.1| Salmo salar clone BAC CHORI214-184H23 aryl hydrocarbon receptor 2 alpha (AhR2a) gene, partial cds; aryl hydrocarbon receptor 1 beta-like protein (AhR1b) gene, MHC class I antigen (Sasa-UHA1) gene, Sasa-UHA1*0101 allele, MHC class I antigen (Sasa-UHA2) gene, Sasa-UHA2*0101 allele, and 1-acylglycerol-3-phosphate O-acyltransferase 3 (AGPAT3) gene, complete cds; and pyroxidal kinase (PDXK) gene, partial cds @ FJ969489 @ 2.15246e-18
+TRINITY_DN35814_c1_g1_i7 @ gi|262189345|gb|FJ969489.1| Salmo salar clone BAC CHORI214-184H23 aryl hydrocarbon receptor 2 alpha (AhR2a) gene, partial cds; aryl hydrocarbon receptor 1 beta-like protein (AhR1b) gene, MHC class I antigen (Sasa-UHA1) gene, Sasa-UHA1*0101 allele, MHC class I antigen (Sasa-UHA2) gene, Sasa-UHA2*0101 allele, and 1-acylglycerol-3-phosphate O-acyltransferase 3 (AGPAT3) gene, complete cds; and pyroxidal kinase (PDXK) gene, partial cds @ FJ969489 @ 1.35835e-14
+TRINITY_DN35814_c1_g1_i7 @ gi|262189345|gb|FJ969489.1| Salmo salar clone BAC CHORI214-184H23 aryl hydrocarbon receptor 2 alpha (AhR2a) gene, partial cds; aryl hydrocarbon receptor 1 beta-like protein (AhR1b) gene, MHC class I antigen (Sasa-UHA1) gene, Sasa-UHA1*0101 allele, MHC class I antigen (Sasa-UHA2) gene, Sasa-UHA2*0101 allele, and 1-acylglycerol-3-phosphate O-acyltransferase 3 (AGPAT3) gene, complete cds; and pyroxidal kinase (PDXK) gene, partial cds @ FJ969489 @ 4.7411e-14
+TRINITY_DN35814_c1_g1_i7 @ gi|262189345|gb|FJ969489.1| Salmo salar clone BAC CHORI214-184H23 aryl hydrocarbon receptor 2 alpha (AhR2a) gene, partial cds; aryl hydrocarbon receptor 1 beta-like protein (AhR1b) gene, MHC class I antigen (Sasa-UHA1) gene, Sasa-UHA1*0101 allele, MHC class I antigen (Sasa-UHA2) gene, Sasa-UHA2*0101 allele, and 1-acylglycerol-3-phosphate O-acyltransferase 3 (AGPAT3) gene, complete cds; and pyroxidal kinase (PDXK) gene, partial cds @ FJ969489 @ 4.44047e-08
+TRINITY_DN35814_c1_g1_i7 @ gi|262189345|gb|FJ969489.1| Salmo salar clone BAC CHORI214-184H23 aryl hydrocarbon receptor 2 alpha (AhR2a) gene, partial cds; aryl hydrocarbon receptor 1 beta-like protein (AhR1b) gene, MHC class I antigen (Sasa-UHA1) gene, Sasa-UHA1*0101 allele, MHC class I antigen (Sasa-UHA2) gene, Sasa-UHA2*0101 allele, and 1-acylglycerol-3-phosphate O-acyltransferase 3 (AGPAT3) gene, complete cds; and pyroxidal kinase (PDXK) gene, partial cds @ FJ969489 @ 0.0415889
+TRINITY_DN35814_c1_g1_i7 @ gi|262189345|gb|FJ969489.1| Salmo salar clone BAC CHORI214-184H23 aryl hydrocarbon receptor 2 alpha (AhR2a) gene, partial cds; aryl hydrocarbon receptor 1 beta-like protein (AhR1b) gene, MHC class I antigen (Sasa-UHA1) gene, Sasa-UHA1*0101 allele, MHC class I antigen (Sasa-UHA2) gene, Sasa-UHA2*0101 allele, and 1-acylglycerol-3-phosphate O-acyltransferase 3 (AGPAT3) gene, complete cds; and pyroxidal kinase (PDXK) gene, partial cds @ FJ969489 @ 0.14516
+TRINITY_DN35814_c1_g1_i7 @ gi|262189345|gb|FJ969489.1| Salmo salar clone BAC CHORI214-184H23 aryl hydrocarbon receptor 2 alpha (AhR2a) gene, partial cds; aryl hydrocarbon receptor 1 beta-like protein (AhR1b) gene, MHC class I antigen (Sasa-UHA1) gene, Sasa-UHA1*0101 allele, MHC class I antigen (Sasa-UHA2) gene, Sasa-UHA2*0101 allele, and 1-acylglycerol-3-phosphate O-acyltransferase 3 (AGPAT3) gene, complete cds; and pyroxidal kinase (PDXK) gene, partial cds @ FJ969489 @ 0.14516
+TRINITY_DN35814_c1_g1_i7 @ gi|262189345|gb|FJ969489.1| Salmo salar clone BAC CHORI214-184H23 aryl hydrocarbon receptor 2 alpha (AhR2a) gene, partial cds; aryl hydrocarbon receptor 1 beta-like protein (AhR1b) gene, MHC class I antigen (Sasa-UHA1) gene, Sasa-UHA1*0101 allele, MHC class I antigen (Sasa-UHA2) gene, Sasa-UHA2*0101 allele, and 1-acylglycerol-3-phosphate O-acyltransferase 3 (AGPAT3) gene, complete cds; and pyroxidal kinase (PDXK) gene, partial cds @ FJ969489 @ 0.506657
+TRINITY_DN31601_c1_g1_i1 @ gi|929257917|ref|XM_014149858.1| PREDICTED: Salmo salar intestinal-type alkaline phosphatase-like (LOC106574189), mRNA @ XM_014149858 @ 4.13326e-135
+TRINITY_DN31601_c1_g1_i1 @ gi|1696106340|ref|XM_029695459.1| PREDICTED: Salmo trutta intestinal-type alkaline phosphatase 1-like (LOC115151482), transcript variant X3, mRNA @ XM_029695459 @ 5.381e-121
+TRINITY_DN31601_c1_g1_i1 @ gi|1696106340|ref|XM_029695459.1| PREDICTED: Salmo trutta intestinal-type alkaline phosphatase 1-like (LOC115151482), transcript variant X3, mRNA @ XM_029695459 @ 0.000280224
+TRINITY_DN31601_c1_g1_i1 @ gi|1696106338|ref|XM_029695457.1| PREDICTED: Salmo trutta intestinal-type alkaline phosphatase 1-like (LOC115151482), transcript variant X2, mRNA @ XM_029695457 @ 5.381e-121
+TRINITY_DN31601_c1_g1_i1 @ gi|1696106338|ref|XM_029695457.1| PREDICTED: Salmo trutta intestinal-type alkaline phosphatase 1-like (LOC115151482), transcript variant X2, mRNA @ XM_029695457 @ 0.000280224
+TRINITY_DN31601_c1_g1_i1 @ gi|1696106336|ref|XM_029695456.1| PREDICTED: Salmo trutta intestinal-type alkaline phosphatase 1-like (LOC115151482), transcript variant X1, mRNA @ XM_029695456 @ 5.381e-121
+TRINITY_DN31601_c1_g1_i1 @ gi|1696106336|ref|XM_029695456.1| PREDICTED: Salmo trutta intestinal-type alkaline phosphatase 1-like (LOC115151482), transcript variant X1, mRNA @ XM_029695456 @ 0.000280224
+TRINITY_DN31601_c1_g1_i1 @ gi|1343048397|ref|XM_023970755.1| PREDICTED: Salvelinus alpinus intestinal-type alkaline phosphatase (LOC111952194), mRNA @ XM_023970755 @ 4.4209e-103
+TRINITY_DN31601_c1_g1_i1 @ gi|1367450772|ref|XM_024425248.1| PREDICTED: Oncorhynchus tshawytscha intestinal-type alkaline phosphatase-like (LOC112253230), mRNA @ XM_024425248 @ 4.14057e-97
+TRINITY_DN31601_c1_g1_i1 @ gi|1367413184|ref|XM_024408256.1| PREDICTED: Oncorhynchus tshawytscha alkaline phosphatase, placental-like (LOC112239862), mRNA @ XM_024408256 @ 4.14057e-97
+TRINITY_DN31601_c1_g1_i1 @ gi|1695926856|ref|XM_029633408.1| PREDICTED: Oncorhynchus nerka intestinal-type alkaline phosphatase-like (LOC115108846), mRNA @ XM_029633408 @ 6.14514e-95
+TRINITY_DN31601_c1_g1_i1 @ gi|1695926856|ref|XM_029633408.1| PREDICTED: Oncorhynchus nerka intestinal-type alkaline phosphatase-like (LOC115108846), mRNA @ XM_029633408 @ 1.0443e-09
+TRINITY_DN31601_c1_g1_i1 @ gi|1158863330|ref|XM_020479673.1| PREDICTED: Oncorhynchus kisutch intestinal-type alkaline phosphatase-like (LOC109888500), mRNA @ XM_020479673 @ 2.61298e-93
+TRINITY_DN31601_c1_g1_i1 @ gi|1158863330|ref|XM_020479673.1| PREDICTED: Oncorhynchus kisutch intestinal-type alkaline phosphatase-like (LOC109888500), mRNA @ XM_020479673 @ 5.40959e-07
+TRINITY_DN31601_c1_g1_i1 @ gi|1211230447|ref|XM_021606337.1| PREDICTED: Oncorhynchus mykiss intestinal-type alkaline phosphatase-like (LOC110525842), mRNA @ XM_021606337 @ 1.65043e-70
+TRINITY_DN31601_c1_g1_i1 @ gi|1211230447|ref|XM_021606337.1| PREDICTED: Oncorhynchus mykiss intestinal-type alkaline phosphatase-like (LOC110525842), mRNA @ XM_021606337 @ 8.01438e-43
+TRINITY_DN31601_c1_g1_i1 @ gi|929261566|ref|XM_014151766.1| PREDICTED: Salmo salar collagen alpha-1(XXVIII) chain-like (LOC106575308), transcript variant X3, mRNA @ XM_014151766 @ 2.79482e-61
+TRINITY_DN31601_c1_g1_i1 @ gi|929261564|ref|XM_014151765.1| PREDICTED: Salmo salar collagen alpha-1(XXVIII) chain-like (LOC106575308), transcript variant X2, mRNA @ XM_014151765 @ 2.79482e-61
+TRINITY_DN31601_c1_g1_i1 @ gi|929261562|ref|XM_014151764.1| PREDICTED: Salmo salar collagen alpha-1(XXVIII) chain-like (LOC106575308), transcript variant X1, mRNA @ XM_014151764 @ 2.79482e-61
+TRINITY_DN31601_c1_g1_i1 @ gi|1696219528|ref|XM_029740943.1| PREDICTED: Salmo trutta collagen alpha-1(XXVIII) chain-like (LOC115179430), transcript variant X3, mRNA @ XM_029740943 @ 1.18839e-59
+TRINITY_DN31601_c1_g1_i1 @ gi|1696219526|ref|XM_029740942.1| PREDICTED: Salmo trutta collagen alpha-1(XXVIII) chain-like (LOC115179430), transcript variant X2, mRNA @ XM_029740942 @ 1.18839e-59
+TRINITY_DN31601_c1_g1_i1 @ gi|1696219524|ref|XM_029740941.1| PREDICTED: Salmo trutta collagen alpha-1(XXVIII) chain-like (LOC115179430), transcript variant X1, mRNA @ XM_029740941 @ 1.18839e-59
+c61486_g1_i1 @ gi|1367519409|ref|XM_024388266.1| PREDICTED: Oncorhynchus tshawytscha homeobox protein zampogna-like (LOC112224611), mRNA @ XM_024388266 @ 4.72438e-90
+c61486_g1_i1 @ gi|1367402465|ref|XM_024416465.1| PREDICTED: Oncorhynchus tshawytscha homeobox protein zampogna-like (LOC112247655), mRNA @ XM_024416465 @ 4.72438e-90
+c61486_g1_i1 @ gi|1696081737|ref|XM_029708628.1| PREDICTED: Salmo trutta proline-serine-threonine phosphatase-interacting protein 2-like (LOC115159168), transcript variant X3, mRNA @ XM_029708628 @ 1.04061e-85
+c61486_g1_i1 @ gi|1696081735|ref|XM_029708627.1| PREDICTED: Salmo trutta proline-serine-threonine phosphatase-interacting protein 2-like (LOC115159168), transcript variant X2, mRNA @ XM_029708627 @ 1.04061e-85
+c61486_g1_i1 @ gi|1696081733|ref|XM_029708626.1| PREDICTED: Salmo trutta proline-serine-threonine phosphatase-interacting protein 2-like (LOC115159168), transcript variant X1, mRNA @ XM_029708626 @ 1.04061e-85
+TRINITY_DN38987_c4_g1_i1 @ gi|1696186437|ref|XM_029742264.1| PREDICTED: Salmo trutta apoptotic protease-activating factor 1-like (LOC115180292), transcript variant X1, mRNA @ XM_029742264 @ 8.02146e-24
+TRINITY_DN23289_c0_g1_i1 @ gi|1696213454|ref|XM_029689572.1| PREDICTED: Salmo trutta T-cell acute lymphocytic leukemia protein 1 homolog (LOC115147361), transcript variant X2, mRNA @ XM_029689572 @ 0.0
+TRINITY_DN23289_c0_g1_i1 @ gi|1696213452|ref|XM_029689571.1| PREDICTED: Salmo trutta T-cell acute lymphocytic leukemia protein 1 homolog (LOC115147361), transcript variant X1, mRNA @ XM_029689571 @ 0.0
+TRINITY_DN23289_c0_g1_i1 @ gi|929068925|ref|XM_014180555.1| PREDICTED: Salmo salar T-cell acute lymphocytic leukemia protein 1 homolog (LOC106590038), transcript variant X3, mRNA @ XM_014180555 @ 0.0
+TRINITY_DN23289_c0_g1_i1 @ gi|929068921|ref|XM_014180535.1| PREDICTED: Salmo salar T-cell acute lymphocytic leukemia protein 1 homolog (LOC106590038), transcript variant X1, mRNA @ XM_014180535 @ 0.0
+TRINITY_DN23289_c0_g1_i1 @ gi|1211255843|ref|XR_002467923.1| PREDICTED: Oncorhynchus mykiss uncharacterized LOC110485523 (LOC110485523), ncRNA @ XR_002467923 @ 0.0
+TRINITY_DN23289_c0_g1_i1 @ gi|1158829955|ref|XR_002253004.1| PREDICTED: Oncorhynchus kisutch T-cell acute lymphocytic leukemia protein 1 homolog (LOC109876406), misc_RNA @ XR_002253004 @ 0.0
+TRINITY_DN23289_c0_g1_i1 @ gi|929069051|ref|XM_014181203.1| PREDICTED: Salmo salar T-cell acute lymphocytic leukemia protein 1-like (LOC106590324), mRNA @ XM_014181203 @ 0.0
+TRINITY_DN23289_c0_g1_i1 @ gi|1696103351|ref|XM_029739120.1| PREDICTED: Salmo trutta T-cell acute lymphocytic leukemia protein 1-like (LOC115178081), transcript variant X3, mRNA @ XM_029739120 @ 0.0
+TRINITY_DN23289_c0_g1_i1 @ gi|1696103350|ref|XR_003872546.1| PREDICTED: Salmo trutta T-cell acute lymphocytic leukemia protein 1-like (LOC115178081), transcript variant X2, misc_RNA @ XR_003872546 @ 0.0
+TRINITY_DN23289_c0_g1_i1 @ gi|1696103348|ref|XM_029739119.1| PREDICTED: Salmo trutta T-cell acute lymphocytic leukemia protein 1-like (LOC115178081), transcript variant X1, mRNA @ XM_029739119 @ 0.0
+TRINITY_DN23289_c0_g1_i1 @ gi|1695846458|ref|XM_029655417.1| PREDICTED: Oncorhynchus nerka T-cell acute lymphocytic leukemia protein 1 homolog (LOC115125845), mRNA @ XM_029655417 @ 0.0
+TRINITY_DN23289_c0_g1_i1 @ gi|1211255841|ref|XM_021556619.1| PREDICTED: Oncorhynchus mykiss T-cell acute lymphocytic leukemia protein 1 homolog (LOC110485522), mRNA @ XM_021556619 @ 0.0
+TRINITY_DN23289_c0_g1_i1 @ gi|929068923|ref|XM_014180544.1| PREDICTED: Salmo salar T-cell acute lymphocytic leukemia protein 1 homolog (LOC106590038), transcript variant X2, mRNA @ XM_014180544 @ 5.36676e-178
+TRINITY_DN23289_c0_g1_i1 @ gi|1634110510|ref|XM_020049797.2| PREDICTED: Esox lucius protein lyl-1 (LOC105012148), mRNA @ XM_020049797 @ 7.024e-50
+TRINITY_DN23289_c0_g1_i1 @ gi|1634110510|ref|XM_020049797.2| PREDICTED: Esox lucius protein lyl-1 (LOC105012148), mRNA @ XM_020049797 @ 3.19171e-35
+TRINITY_DN23289_c0_g1_i1 @ gi|354788316|gb|JN952817.1| Mus musculus targeted non-conditional, lacZ-tagged mutant allele Azgp1:tm1e(EUCOMM)Wtsi; transgenic @ JN952817 @ 7.03642e-12
+TRINITY_DN23289_c0_g1_i1 @ gi|354788231|gb|JN952732.1| Mus musculus targeted KO-first, conditional ready, lacZ-tagged mutant allele Azgp1:tm1a(EUCOMM)Wtsi; transgenic @ JN952732 @ 7.03642e-12
+TRINITY_DN23289_c0_g1_i1 @ gi|514677821|ref|XM_004987659.1| Salpingoeca rosetta hypothetical protein mRNA @ XM_004987659 @ 3.64496e-09
+TRINITY_DN23289_c0_g1_i1 @ gi|1484804936|ref|XM_026537806.1| PREDICTED: Papaver somniferum transcription factor bHLH110-like (LOC113288687), mRNA @ XM_026537806 @ 1.76841
+TRINITY_DN23289_c0_g1_i1 @ gi|1484690603|ref|XM_026537616.1| PREDICTED: Papaver somniferum transcription factor bHLH110-like (LOC113288532), mRNA @ XM_026537616 @ 1.76841
+TRINITY_DN23289_c0_g1_i1 @ gi|29125255|emb|AL929114.8| Zebrafish DNA sequence from clone CH211-133L11 in linkage group 1, complete sequence @ AL929114 @ 6.17234
+TRINITY_DN29023_c3_g1_i4 @ gi|1696085611|ref|XM_029718228.1| PREDICTED: Salmo trutta constitutive coactivator of PPAR-gamma-like protein 2 (LOC115165233), transcript variant X2, mRNA @ XM_029718228 @ 0.0
+TRINITY_DN29023_c3_g1_i4 @ gi|1696085611|ref|XM_029718228.1| PREDICTED: Salmo trutta constitutive coactivator of PPAR-gamma-like protein 2 (LOC115165233), transcript variant X2, mRNA @ XM_029718228 @ 3.19453e-16
+TRINITY_DN29023_c3_g1_i4 @ gi|1696085611|ref|XM_029718228.1| PREDICTED: Salmo trutta constitutive coactivator of PPAR-gamma-like protein 2 (LOC115165233), transcript variant X2, mRNA @ XM_029718228 @ 0.00341383
+TRINITY_DN29023_c3_g1_i4 @ gi|1696085609|ref|XM_029718227.1| PREDICTED: Salmo trutta constitutive coactivator of PPAR-gamma-like protein 2 (LOC115165233), transcript variant X1, mRNA @ XM_029718227 @ 0.0
+TRINITY_DN29023_c3_g1_i4 @ gi|1696085609|ref|XM_029718227.1| PREDICTED: Salmo trutta constitutive coactivator of PPAR-gamma-like protein 2 (LOC115165233), transcript variant X1, mRNA @ XM_029718227 @ 3.19453e-16
+TRINITY_DN29023_c3_g1_i4 @ gi|1696085609|ref|XM_029718227.1| PREDICTED: Salmo trutta constitutive coactivator of PPAR-gamma-like protein 2 (LOC115165233), transcript variant X1, mRNA @ XM_029718227 @ 0.00341383
+TRINITY_DN29023_c3_g1_i4 @ gi|929253566|ref|XM_014147599.1| PREDICTED: Salmo salar constitutive coactivator of PPAR-gamma-like protein 2 (LOC106573003), transcript variant X2, mRNA @ XM_014147599 @ 4.12596e-173
+TRINITY_DN29023_c3_g1_i4 @ gi|929253566|ref|XM_014147599.1| PREDICTED: Salmo salar constitutive coactivator of PPAR-gamma-like protein 2 (LOC106573003), transcript variant X2, mRNA @ XM_014147599 @ 3.64174e-28
+TRINITY_DN29023_c3_g1_i4 @ gi|929253566|ref|XM_014147599.1| PREDICTED: Salmo salar constitutive coactivator of PPAR-gamma-like protein 2 (LOC106573003), transcript variant X2, mRNA @ XM_014147599 @ 3.19453e-16
+TRINITY_DN29023_c3_g1_i4 @ gi|929253566|ref|XM_014147599.1| PREDICTED: Salmo salar constitutive coactivator of PPAR-gamma-like protein 2 (LOC106573003), transcript variant X2, mRNA @ XM_014147599 @ 0.000280224
+TRINITY_DN29023_c3_g1_i4 @ gi|929253566|ref|XM_014147599.1| PREDICTED: Salmo salar constitutive coactivator of PPAR-gamma-like protein 2 (LOC106573003), transcript variant X2, mRNA @ XM_014147599 @ 6.17234
+TRINITY_DN29023_c3_g1_i4 @ gi|929253564|ref|XM_014147598.1| PREDICTED: Salmo salar constitutive coactivator of PPAR-gamma-like protein 2 (LOC106573003), transcript variant X1, mRNA @ XM_014147598 @ 4.12596e-173
+TRINITY_DN29023_c3_g1_i4 @ gi|929253564|ref|XM_014147598.1| PREDICTED: Salmo salar constitutive coactivator of PPAR-gamma-like protein 2 (LOC106573003), transcript variant X1, mRNA @ XM_014147598 @ 3.64174e-28
+TRINITY_DN29023_c3_g1_i4 @ gi|929253564|ref|XM_014147598.1| PREDICTED: Salmo salar constitutive coactivator of PPAR-gamma-like protein 2 (LOC106573003), transcript variant X1, mRNA @ XM_014147598 @ 3.19453e-16
+TRINITY_DN29023_c3_g1_i4 @ gi|929253564|ref|XM_014147598.1| PREDICTED: Salmo salar constitutive coactivator of PPAR-gamma-like protein 2 (LOC106573003), transcript variant X1, mRNA @ XM_014147598 @ 0.000280224
+TRINITY_DN29023_c3_g1_i4 @ gi|929253564|ref|XM_014147598.1| PREDICTED: Salmo salar constitutive coactivator of PPAR-gamma-like protein 2 (LOC106573003), transcript variant X1, mRNA @ XM_014147598 @ 6.17234
+TRINITY_DN31560_c0_g3_i10 @ gi|929252996|ref|XR_001321193.1| PREDICTED: Salmo salar uncharacterized LOC106572812 (LOC106572812), ncRNA @ XR_001321193 @ 2.00709e-107
+TRINITY_DN31560_c0_g3_i10 @ gi|929252996|ref|XR_001321193.1| PREDICTED: Salmo salar uncharacterized LOC106572812 (LOC106572812), ncRNA @ XR_001321193 @ 7.00542e-107
+TRINITY_DN31560_c0_g3_i10 @ gi|929252996|ref|XR_001321193.1| PREDICTED: Salmo salar uncharacterized LOC106572812 (LOC106572812), ncRNA @ XR_001321193 @ 2.29413e-62
+TRINITY_DN31560_c0_g3_i10 @ gi|929252996|ref|XR_001321193.1| PREDICTED: Salmo salar uncharacterized LOC106572812 (LOC106572812), ncRNA @ XR_001321193 @ 4.14789e-59
+TRINITY_DN31560_c0_g3_i10 @ gi|929252996|ref|XR_001321193.1| PREDICTED: Salmo salar uncharacterized LOC106572812 (LOC106572812), ncRNA @ XR_001321193 @ 9.76351e-42
+TRINITY_DN31560_c0_g3_i10 @ gi|929252996|ref|XR_001321193.1| PREDICTED: Salmo salar uncharacterized LOC106572812 (LOC106572812), ncRNA @ XR_001321193 @ 2.29819e-24
+TRINITY_DN31560_c0_g3_i10 @ gi|929252996|ref|XR_001321193.1| PREDICTED: Salmo salar uncharacterized LOC106572812 (LOC106572812), ncRNA @ XR_001321193 @ 5.40959e-07
+TRINITY_DN31560_c0_g3_i10 @ gi|1696086164|ref|XR_003870157.1| PREDICTED: Salmo trutta uncharacterized LOC115165401 (LOC115165401), ncRNA @ XR_003870157 @ 1.54441e-83
+TRINITY_DN31560_c0_g3_i10 @ gi|1696086164|ref|XR_003870157.1| PREDICTED: Salmo trutta uncharacterized LOC115165401 (LOC115165401), ncRNA @ XR_003870157 @ 1.54441e-83
+TRINITY_DN31560_c0_g3_i10 @ gi|1696086164|ref|XR_003870157.1| PREDICTED: Salmo trutta uncharacterized LOC115165401 (LOC115165401), ncRNA @ XR_003870157 @ 1.44648e-77
+TRINITY_DN31560_c0_g3_i10 @ gi|1696086164|ref|XR_003870157.1| PREDICTED: Salmo trutta uncharacterized LOC115165401 (LOC115165401), ncRNA @ XR_003870157 @ 1.65043e-70
+TRINITY_DN31560_c0_g3_i10 @ gi|1696086164|ref|XR_003870157.1| PREDICTED: Salmo trutta uncharacterized LOC115165401 (LOC115165401), ncRNA @ XR_003870157 @ 6.15601e-57
+TRINITY_DN31560_c0_g3_i10 @ gi|1696086164|ref|XR_003870157.1| PREDICTED: Salmo trutta uncharacterized LOC115165401 (LOC115165401), ncRNA @ XR_003870157 @ 5.05763e-39
+TRINITY_DN31560_c0_g3_i10 @ gi|1696086164|ref|XR_003870157.1| PREDICTED: Salmo trutta uncharacterized LOC115165401 (LOC115165401), ncRNA @ XR_003870157 @ 9.77214e-23
+TRINITY_DN31560_c0_g3_i10 @ gi|1696086164|ref|XR_003870157.1| PREDICTED: Salmo trutta uncharacterized LOC115165401 (LOC115165401), ncRNA @ XR_003870157 @ 5.40959e-07
+TRINITY_DN31560_c0_g3_i10 @ gi|1696086162|ref|XR_003870155.1| PREDICTED: Salmo trutta uncharacterized LOC115165399 (LOC115165399), ncRNA @ XR_003870155 @ 1.54441e-83
+TRINITY_DN31560_c0_g3_i10 @ gi|1696086162|ref|XR_003870155.1| PREDICTED: Salmo trutta uncharacterized LOC115165399 (LOC115165399), ncRNA @ XR_003870155 @ 6.56699e-82
+TRINITY_DN31560_c0_g3_i10 @ gi|1696086162|ref|XR_003870155.1| PREDICTED: Salmo trutta uncharacterized LOC115165399 (LOC115165399), ncRNA @ XR_003870155 @ 6.15057e-76
+TRINITY_DN31560_c0_g3_i10 @ gi|1696086162|ref|XR_003870155.1| PREDICTED: Salmo trutta uncharacterized LOC115165399 (LOC115165399), ncRNA @ XR_003870155 @ 3.63531e-66
+TRINITY_DN31560_c0_g3_i10 @ gi|1696086162|ref|XR_003870155.1| PREDICTED: Salmo trutta uncharacterized LOC115165399 (LOC115165399), ncRNA @ XR_003870155 @ 3.18889e-54
+TRINITY_DN31560_c0_g3_i10 @ gi|1696086162|ref|XR_003870155.1| PREDICTED: Salmo trutta uncharacterized LOC115165399 (LOC115165399), ncRNA @ XR_003870155 @ 5.05763e-39
+TRINITY_DN31560_c0_g3_i10 @ gi|1696086162|ref|XR_003870155.1| PREDICTED: Salmo trutta uncharacterized LOC115165399 (LOC115165399), ncRNA @ XR_003870155 @ 1.19049e-21
+TRINITY_DN31560_c0_g3_i10 @ gi|1696086162|ref|XR_003870155.1| PREDICTED: Salmo trutta uncharacterized LOC115165399 (LOC115165399), ncRNA @ XR_003870155 @ 5.40959e-07
+c64803_g1_i1 @ gi|1696034756|ref|XM_029744277.1| PREDICTED: Salmo trutta E3 ubiquitin-protein ligase Mdm2-like (LOC115182930), transcript variant X2, mRNA @ XM_029744277 @ 1.44903e-39
+c64803_g1_i1 @ gi|1696034754|ref|XM_029744276.1| PREDICTED: Salmo trutta E3 ubiquitin-protein ligase Mdm2-like (LOC115182930), transcript variant X1, mRNA @ XM_029744276 @ 1.44903e-39
+c64803_g1_i1 @ gi|1211228282|ref|XM_021595229.1| PREDICTED: Oncorhynchus mykiss MDM2 proto-oncogene (mdm2), mRNA @ XM_021595229 @ 1.44903e-39
+c64803_g1_i1 @ gi|929333087|ref|XM_014186006.1| PREDICTED: Salmo salar MDM2 proto-oncogene, E3 ubiquitin protein ligase (mdm2), mRNA @ XM_014186006 @ 1.76528e-38
+c64803_g1_i1 @ gi|1696033551|ref|XM_029743726.1| PREDICTED: Salmo trutta E3 ubiquitin-protein ligase Mdm2-like (LOC115182075), transcript variant X2, mRNA @ XM_029743726 @ 2.15056e-37
+c64803_g1_i1 @ gi|1696033549|ref|XM_029743725.1| PREDICTED: Salmo trutta E3 ubiquitin-protein ligase Mdm2-like (LOC115182075), transcript variant X1, mRNA @ XM_029743725 @ 2.15056e-37
+c64803_g1_i1 @ gi|1348585193|ref|XM_024145033.1| PREDICTED: Salvelinus alpinus MDM2 proto-oncogene (mdm2), mRNA @ XM_024145033 @ 9.1444e-36
+c64803_g1_i1 @ gi|1158848913|ref|XM_020477707.1| PREDICTED: Oncorhynchus kisutch E3 ubiquitin-protein ligase Mdm2-like (LOC109885926), mRNA @ XM_020477707 @ 7.03021e-31
+c64803_g1_i1 @ gi|1695836268|ref|XM_029650940.1| PREDICTED: Oncorhynchus nerka E3 ubiquitin-protein ligase Mdm2-like (LOC115121809), partial mRNA @ XM_029650940 @ 4.43655e-27
+c64803_g1_i1 @ gi|1696034758|ref|XR_003873916.1| PREDICTED: Salmo trutta uncharacterized LOC115182931 (LOC115182931), ncRNA @ XR_003873916 @ 5.40482e-26
+c64803_g1_i1 @ gi|1367474841|ref|XM_024437910.1| PREDICTED: Oncorhynchus tshawytscha MDM2 proto-oncogene (mdm2), mRNA @ XM_024437910 @ 9.77214e-23
+c64803_g1_i1 @ gi|1519473362|dbj|LC385608.1| Tricholoma matsutake Y-1 mitochondrial DNA, complete genome @ LC385608 @ 0.14516
+c64803_g1_i1 @ gi|440647475|gb|JX985789.1| Tricholoma matsutake mitochondrion, complete genome @ JX985789 @ 0.14516
+c64803_g1_i1 @ gi|268580510|ref|XM_002645192.1| Caenorhabditis briggsae C. briggsae CBR-SCD-1 protein (Cbr-scd-1) mRNA, complete cds @ XM_002645192 @ 0.14516
+c64803_g1_i1 @ gi|11095045|gb|AC084595.1|CBRG42E22 Caenorhabditis briggsae cosmid G42E22, complete sequence @ AC084595 @ 0.14516
+c64803_g1_i1 @ gi|1516582849|emb|LR031877.1| Brassica oleracea HDEM genome, scaffold: C5 @ LR031877 @ 0.14516
+c64803_g1_i1 @ gi|1516514802|emb|LR031571.1| Brassica rapa genome, scaffold: A01 @ LR031571 @ 0.14516
+c64803_g1_i1 @ gi|1516514802|emb|LR031571.1| Brassica rapa genome, scaffold: A01 @ LR031571 @ 1.76841
+c64803_g1_i1 @ gi|871209172|ref|XM_005090467.2| PREDICTED: Aplysia californica uncharacterized LOC101860221 (LOC101860221), transcript variant X2, mRNA @ XM_005090467 @ 0.506657
+c64803_g1_i1 @ gi|871209169|ref|XM_013086070.1| PREDICTED: Aplysia californica uncharacterized LOC101860221 (LOC101860221), transcript variant X1, mRNA @ XM_013086070 @ 0.506657
+c64803_g1_i1 @ gi|42558119|emb|AL954670.11| Zebrafish DNA sequence from clone CH211-274J15 in linkage group 10, complete sequence @ AL954670 @ 0.506657
+c64803_g1_i1 @ gi|1703533011|emb|LR634019.1| XXX @ LR634019 @ 0.506657
+c64803_g1_i1 @ gi|1516555473|emb|LR031873.1| Brassica oleracea HDEM genome, scaffold: C4 @ LR031873 @ 0.506657
+c64803_g1_i1 @ gi|1516525811|emb|LR031573.1| Brassica rapa genome, scaffold: A02 @ LR031573 @ 0.506657
+c64803_g1_i1 @ gi|289780467|emb|FP236807.8| Zebrafish DNA sequence from clone CH73-181N1 in linkage group 4, complete sequence @ FP236807 @ 0.506657
+c64803_g1_i1 @ gi|1516595182|emb|LR031879.1| Brassica oleracea HDEM genome, scaffold: C8 @ LR031879 @ 1.76841
+c64803_g1_i1 @ gi|1516589221|emb|LR031878.1| Brassica oleracea HDEM genome, scaffold: C1 @ LR031878 @ 1.76841
+c64803_g1_i1 @ gi|1516546388|emb|LR031872.1| Brassica oleracea HDEM genome, scaffold: C3 @ LR031872 @ 1.76841
+c64803_g1_i1 @ gi|1516538420|emb|LR031576.1| Brassica rapa genome, scaffold: A04 @ LR031576 @ 1.76841
+c64803_g1_i1 @ gi|1516538420|emb|LR031576.1| Brassica rapa genome, scaffold: A04 @ LR031576 @ 6.17234
+c64803_g1_i1 @ gi|1516519470|emb|LR031572.1| Brassica rapa genome, scaffold: A03 @ LR031572 @ 1.76841
+c62350_g1_i1 @ gi|1696032400|ref|XM_029743193.1| PREDICTED: Salmo trutta thioredoxin-like protein 4B (LOC115181163), mRNA @ XM_029743193 @ 5.04424e-96
+c62350_g1_i1 @ gi|1696032400|ref|XM_029743193.1| PREDICTED: Salmo trutta thioredoxin-like protein 4B (LOC115181163), mRNA @ XM_029743193 @ 6.16145e-38
+c62350_g1_i1 @ gi|1211284028|ref|XM_021570563.1| PREDICTED: Oncorhynchus mykiss thioredoxin-like protein 4B (LOC110495343), mRNA @ XM_021570563 @ 2.98141e-86
+c62350_g1_i1 @ gi|1211284028|ref|XM_021570563.1| PREDICTED: Oncorhynchus mykiss thioredoxin-like protein 4B (LOC110495343), mRNA @ XM_021570563 @ 2.45162e-49
+c62350_g1_i1 @ gi|304434799|ref|NM_001140727.2| Salmo salar thioredoxin like 4B (txnl4b), mRNA >gi|304376455|gb|BT046770.2| Salmo salar clone ssal-eve-540-247 Thioredoxin-like protein 4B putative mRNA, complete cds @ NM_001140727 @ 1.26773e-84
+c62350_g1_i1 @ gi|304434799|ref|NM_001140727.2| Salmo salar thioredoxin like 4B (txnl4b), mRNA >gi|304376455|gb|BT046770.2| Salmo salar clone ssal-eve-540-247 Thioredoxin-like protein 4B putative mRNA, complete cds @ NM_001140727 @ 2.15056e-37
+c62350_g1_i1 @ gi|1696032366|ref|XM_029743180.1| PREDICTED: Salmo trutta thioredoxin-like protein 4B (LOC115181149), mRNA @ XM_029743180 @ 1.88148e-82
+c62350_g1_i1 @ gi|1696032366|ref|XM_029743180.1| PREDICTED: Salmo trutta thioredoxin-like protein 4B (LOC115181149), mRNA @ XM_029743180 @ 3.8883e-34
+c62350_g1_i1 @ gi|1367412423|ref|XM_024407861.1| PREDICTED: Oncorhynchus tshawytscha thioredoxin like 4B (txnl4b), transcript variant X2, mRNA @ XM_024407861 @ 1.54851e-26
+c62350_g1_i1 @ gi|1367412421|ref|XM_024407860.1| PREDICTED: Oncorhynchus tshawytscha thioredoxin like 4B (txnl4b), transcript variant X1, mRNA @ XM_024407860 @ 1.54851e-26
+c62350_g1_i1 @ gi|1158832556|ref|XM_020469351.1| PREDICTED: Oncorhynchus kisutch thioredoxin like 4B (txnl4b), mRNA @ XM_020469351 @ 1.54851e-26
+c62350_g1_i1 @ gi|1029017251|ref|XM_016817005.1| PREDICTED: Gossypium hirsutum protein SAR DEFICIENT 1-like (LOC107892037), mRNA @ XM_016817005 @ 6.17234
+c62350_g1_i1 @ gi|823169687|ref|XM_012628824.1| PREDICTED: Gossypium raimondii uncharacterized LOC105798669 (LOC105798669), mRNA @ XM_012628824 @ 6.17234
